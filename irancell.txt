@@ -1,0 +1,2929 @@
+ayk@Ahmad:~$ gui
+Command 'gui' not found, did you mean:
+  command 'gum' from snap gum (0.12.0)
+  command 'gsi' from deb gambc (4.9.3-1.2)
+  command 'ghi' from deb ghi (1.2.0-1.1)
+  command 'guix' from deb guix (1.3.0-4)
+  command 'ui' from deb userinfo (2.5-5)
+  command 'gli' from deb ruby-gli (2.14.0-1.1)
+  command 'gmi' from deb lieer (1.3-6)
+See 'snap info <snapname>' for additional versions.
+ayk@Ahmad:~$ sudo apt install nautilus -y
+[sudo] password for ayk:
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  bubblewrap dbus-user-session desktop-file-utils fdisk gcr gdisk glib-networking glib-networking-common
+  glib-networking-services gnome-desktop3-data gnome-keyring gnome-keyring-pkcs11 gstreamer1.0-plugins-base gvfs
+  gvfs-backends gvfs-common gvfs-daemons gvfs-libs libarchive13 libatasmart4 libavahi-glib1 libblockdev-crypto2
+  libblockdev-fs2 libblockdev-loop2 libblockdev-part-err2 libblockdev-part2 libblockdev-swap2 libblockdev-utils2
+  libblockdev2 libcdio-cdda2 libcdio-paranoia2 libcdio19 libcdparanoia0 libcue2 libdbusmenu-glib4 libdee-1.0-4
+  libexempi8 libexif12 libexiv2-27 libfdisk1 libgck-1-0 libgcr-base-3-1 libgcr-ui-3-1 libgdata-common libgdata22
+  libgexiv2-2 libgif7 libgnome-autoar-0-0 libgnome-desktop-3-19 libgoa-1.0-0b libgoa-1.0-common libgpgme11
+  libgphoto2-6 libgphoto2-l10n libgphoto2-port12 libgsf-1-114 libgsf-1-common libgstreamer-plugins-base1.0-0 libgxps2
+  libhandy-1-0 libimobiledevice6 libjson-glib-1.0-0 libjson-glib-1.0-common libldb2 libmtp-common libmtp-runtime
+  libmtp9 libnautilus-extension1a libnfs13 libnm0 liborc-0.4-0 libpam-gnome-keyring libparted-fs-resize0 libplist3
+  libpoppler-glib8 libpoppler118 libproxy1v5 libsecret-1-0 libsecret-common libsmbclient libsoup2.4-1
+  libsoup2.4-common libtalloc2 libtdb1 libtevent0 libtheora0 libtotem-plparser-common libtotem-plparser18
+  libtracker-sparql-3.0-0 libudisks2-0 libunity-protocol-private0 libunity-scopes-json-def-desktop libunity9
+  libupower-glib3 libusbmuxd6 libvisual-0.4-0 libvolume-key1 libwbclient0 libxkbregistry0 nautilus-data p11-kit
+  p11-kit-modules pinentry-gnome3 python3-ldb python3-talloc samba-libs tracker tracker-extract tracker-miner-fs
+  udisks2 upower usbmuxd
+Suggested packages:
+  bluez-obexd samba-common lrzip exiv2 gphoto2 libvisual-0.4-plugins libusbmuxd-tools libparted-dev unity-common eog
+  evince | pdf-viewer gnome-sushi nautilus-extension-brasero nautilus-sendto totem | mp3-decoder pinentry-doc
+  btrfs-progs f2fs-tools libblockdev-mdraid2 mdadm nilfs-tools reiserfsprogs udftools udisks2-bcache udisks2-btrfs
+  udisks2-lvm2 udisks2-zram xfsprogs exfatprogs
+The following NEW packages will be installed:
+  bubblewrap dbus-user-session desktop-file-utils fdisk gcr gdisk glib-networking glib-networking-common
+  glib-networking-services gnome-desktop3-data gnome-keyring gnome-keyring-pkcs11 gstreamer1.0-plugins-base gvfs
+  gvfs-backends gvfs-common gvfs-daemons gvfs-libs libarchive13 libatasmart4 libavahi-glib1 libblockdev-crypto2
+  libblockdev-fs2 libblockdev-loop2 libblockdev-part-err2 libblockdev-part2 libblockdev-swap2 libblockdev-utils2
+  libblockdev2 libcdio-cdda2 libcdio-paranoia2 libcdio19 libcdparanoia0 libcue2 libdbusmenu-glib4 libdee-1.0-4
+  libexempi8 libexif12 libexiv2-27 libfdisk1 libgck-1-0 libgcr-base-3-1 libgcr-ui-3-1 libgdata-common libgdata22
+  libgexiv2-2 libgif7 libgnome-autoar-0-0 libgnome-desktop-3-19 libgoa-1.0-0b libgoa-1.0-common libgpgme11
+  libgphoto2-6 libgphoto2-l10n libgphoto2-port12 libgsf-1-114 libgsf-1-common libgstreamer-plugins-base1.0-0 libgxps2
+  libhandy-1-0 libimobiledevice6 libjson-glib-1.0-0 libjson-glib-1.0-common libldb2 libmtp-common libmtp-runtime
+  libmtp9 libnautilus-extension1a libnfs13 libnm0 liborc-0.4-0 libpam-gnome-keyring libparted-fs-resize0 libplist3
+  libpoppler-glib8 libpoppler118 libproxy1v5 libsecret-1-0 libsecret-common libsmbclient libsoup2.4-1
+  libsoup2.4-common libtalloc2 libtdb1 libtevent0 libtheora0 libtotem-plparser-common libtotem-plparser18
+  libtracker-sparql-3.0-0 libudisks2-0 libunity-protocol-private0 libunity-scopes-json-def-desktop libunity9
+  libupower-glib3 libusbmuxd6 libvisual-0.4-0 libvolume-key1 libwbclient0 libxkbregistry0 nautilus nautilus-data
+  p11-kit p11-kit-modules pinentry-gnome3 python3-ldb python3-talloc samba-libs tracker tracker-extract
+  tracker-miner-fs udisks2 upower usbmuxd
+0 upgraded, 113 newly installed, 0 to remove and 0 not upgraded.
+Need to get 21.9 MB of archives.
+After this operation, 83.7 MB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 libtalloc2 amd64 2.3.3-2build1 [25.6 kB]
+Get:2 http://archive.ubuntu.com/ubuntu jammy/main amd64 libtevent0 amd64 0.11.0-1build1 [39.2 kB]
+Get:3 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libwbclient0 amd64 2:4.15.13+dfsg-0ubuntu1 [266 kB]
+Get:4 http://archive.ubuntu.com/ubuntu jammy/main amd64 libtdb1 amd64 1.4.5-2build1 [46.4 kB]
+Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libldb2 amd64 2:2.4.4-0ubuntu0.1 [153 kB]
+Get:6 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 python3-ldb amd64 2:2.4.4-0ubuntu0.1 [41.7 kB]
+Get:7 http://archive.ubuntu.com/ubuntu jammy/main amd64 python3-talloc amd64 2.3.3-2build1 [13.0 kB]
+Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 samba-libs amd64 2:4.15.13+dfsg-0ubuntu1 [6277 kB]
+Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsmbclient amd64 2:4.15.13+dfsg-0ubuntu1 [65.9 kB]
+Get:10 http://archive.ubuntu.com/ubuntu jammy/main amd64 bubblewrap amd64 0.6.1-1 [46.0 kB]
+Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 dbus-user-session amd64 1.12.20-2ubuntu4.1 [9442 B]
+Get:12 http://archive.ubuntu.com/ubuntu jammy/main amd64 desktop-file-utils amd64 0.26-1ubuntu3 [55.9 kB]
+Get:13 http://archive.ubuntu.com/ubuntu jammy/main amd64 libfdisk1 amd64 2.37.2-4ubuntu3 [141 kB]
+Get:14 http://archive.ubuntu.com/ubuntu jammy/main amd64 fdisk amd64 2.37.2-4ubuntu3 [122 kB]
+Get:15 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgck-1-0 amd64 3.40.0-4 [81.4 kB]
+Get:16 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgcr-base-3-1 amd64 3.40.0-4 [209 kB]
+Get:17 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgcr-ui-3-1 amd64 3.40.0-4 [135 kB]
+Get:18 http://archive.ubuntu.com/ubuntu jammy/main amd64 gcr amd64 3.40.0-4 [60.3 kB]
+Get:19 http://archive.ubuntu.com/ubuntu jammy/main amd64 libproxy1v5 amd64 0.4.17-2 [51.9 kB]
+Get:20 http://archive.ubuntu.com/ubuntu jammy/main amd64 glib-networking-common all 2.72.0-1 [3718 B]
+Get:21 http://archive.ubuntu.com/ubuntu jammy/main amd64 glib-networking-services amd64 2.72.0-1 [9982 B]
+Get:22 http://archive.ubuntu.com/ubuntu jammy/main amd64 glib-networking amd64 2.72.0-1 [69.8 kB]
+Get:23 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gnome-desktop3-data all 42.5-0ubuntu1 [23.2 kB]
+Get:24 http://archive.ubuntu.com/ubuntu jammy/main amd64 p11-kit-modules amd64 0.24.0-6build1 [223 kB]
+Get:25 http://archive.ubuntu.com/ubuntu jammy/main amd64 p11-kit amd64 0.24.0-6build1 [101 kB]
+Get:26 http://archive.ubuntu.com/ubuntu jammy/main amd64 libsecret-common all 0.20.5-2 [4278 B]
+Get:27 http://archive.ubuntu.com/ubuntu jammy/main amd64 libsecret-1-0 amd64 0.20.5-2 [124 kB]
+Get:28 http://archive.ubuntu.com/ubuntu jammy/main amd64 pinentry-gnome3 amd64 1.1.1-1build2 [38.3 kB]
+Get:29 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gnome-keyring amd64 40.0-3ubuntu3 [669 kB]
+Get:30 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gnome-keyring-pkcs11 amd64 40.0-3ubuntu3 [28.3 kB]
+Get:31 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcdparanoia0 amd64 3.10.2+debian-14build2 [49.3 kB]
+Get:32 http://archive.ubuntu.com/ubuntu jammy/main amd64 liborc-0.4-0 amd64 1:0.4.32-2 [228 kB]
+Get:33 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgstreamer-plugins-base1.0-0 amd64 1.20.1-1 [847 kB]
+Get:34 http://archive.ubuntu.com/ubuntu jammy/main amd64 libtheora0 amd64 1.1.1+dfsg.1-15ubuntu4 [209 kB]
+Get:35 http://archive.ubuntu.com/ubuntu jammy/main amd64 libvisual-0.4-0 amd64 0.4.0-17build2 [108 kB]
+Get:36 http://archive.ubuntu.com/ubuntu jammy/main amd64 gstreamer1.0-plugins-base amd64 1.20.1-1 [712 kB]
+Get:37 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gvfs-common all 1.48.2-0ubuntu1 [9522 B]
+Get:38 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gvfs-libs amd64 1.48.2-0ubuntu1 [114 kB]
+Get:39 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-part-err2 amd64 2.26-1 [5704 B]
+Get:40 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-utils2 amd64 2.26-1 [16.4 kB]
+Get:41 http://archive.ubuntu.com/ubuntu jammy/main amd64 libparted-fs-resize0 amd64 3.4-2build1 [46.6 kB]
+Get:42 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-fs2 amd64 2.26-1 [21.8 kB]
+Get:43 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-loop2 amd64 2.26-1 [6922 B]
+Get:44 http://archive.ubuntu.com/ubuntu jammy/main amd64 gdisk amd64 1.0.8-4build1 [240 kB]
+Get:45 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-part2 amd64 2.26-1 [15.7 kB]
+Get:46 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-swap2 amd64 2.26-1 [7482 B]
+Get:47 http://archive.ubuntu.com/ubuntu jammy/main amd64 libatasmart4 amd64 0.19-5build2 [25.2 kB]
+Get:48 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev2 amd64 2.26-1 [43.2 kB]
+Get:49 http://archive.ubuntu.com/ubuntu jammy/main amd64 libudisks2-0 amd64 2.9.4-1ubuntu2 [167 kB]
+Get:50 http://archive.ubuntu.com/ubuntu jammy/main amd64 udisks2 amd64 2.9.4-1ubuntu2 [285 kB]
+Get:51 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gvfs-daemons amd64 1.48.2-0ubuntu1 [122 kB]
+Get:52 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gvfs amd64 1.48.2-0ubuntu1 [118 kB]
+Get:53 http://archive.ubuntu.com/ubuntu jammy/main amd64 libarchive13 amd64 3.6.0-1ubuntu1 [368 kB]
+Get:54 http://archive.ubuntu.com/ubuntu jammy/main amd64 libavahi-glib1 amd64 0.8-5ubuntu5 [8294 B]
+Get:55 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcdio19 amd64 2.1.0-3build1 [63.3 kB]
+Get:56 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcdio-cdda2 amd64 10.2+2.0.0-1build3 [16.7 kB]
+Get:57 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcdio-paranoia2 amd64 10.2+2.0.0-1build3 [15.9 kB]
+Get:58 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgoa-1.0-common all 3.44.0-1ubuntu1 [3490 B]
+Get:59 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgoa-1.0-0b amd64 3.44.0-1ubuntu1 [72.6 kB]
+Get:60 http://archive.ubuntu.com/ubuntu jammy/main amd64 libjson-glib-1.0-common all 1.6.6-1build1 [4432 B]
+Get:61 http://archive.ubuntu.com/ubuntu jammy/main amd64 libjson-glib-1.0-0 amd64 1.6.6-1build1 [69.9 kB]
+Get:62 http://archive.ubuntu.com/ubuntu jammy/main amd64 libsoup2.4-common all 2.74.2-3 [4008 B]
+Get:63 http://archive.ubuntu.com/ubuntu jammy/main amd64 libsoup2.4-1 amd64 2.74.2-3 [287 kB]
+Get:64 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgdata-common all 0.18.1-2build1 [3138 B]
+Get:65 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgdata22 amd64 0.18.1-2build1 [295 kB]
+Get:66 http://archive.ubuntu.com/ubuntu jammy/main amd64 libexif12 amd64 0.6.24-1build1 [92.5 kB]
+Get:67 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgphoto2-port12 amd64 2.5.27-1build2 [57.6 kB]
+Get:68 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgphoto2-6 amd64 2.5.27-1build2 [727 kB]
+Get:69 http://archive.ubuntu.com/ubuntu jammy/main amd64 libplist3 amd64 2.2.0-6build2 [32.1 kB]
+Get:70 http://archive.ubuntu.com/ubuntu jammy/main amd64 libusbmuxd6 amd64 2.0.2-3build2 [20.4 kB]
+Get:71 http://archive.ubuntu.com/ubuntu jammy/main amd64 libimobiledevice6 amd64 1.3.0-6build3 [71.1 kB]
+Get:72 http://archive.ubuntu.com/ubuntu jammy/main amd64 libmtp-common all 1.1.19-1build1 [19.9 kB]
+Get:73 http://archive.ubuntu.com/ubuntu jammy/main amd64 libmtp9 amd64 1.1.19-1build1 [164 kB]
+Get:74 http://archive.ubuntu.com/ubuntu jammy/main amd64 libnfs13 amd64 4.0.0-1build2 [106 kB]
+Get:75 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 gvfs-backends amd64 1.48.2-0ubuntu1 [384 kB]
+Get:76 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgpgme11 amd64 1.16.0-1.2ubuntu4 [136 kB]
+Get:77 http://archive.ubuntu.com/ubuntu jammy/main amd64 libvolume-key1 amd64 0.3.12-3.1build3 [41.6 kB]
+Get:78 http://archive.ubuntu.com/ubuntu jammy/main amd64 libblockdev-crypto2 amd64 2.26-1 [18.2 kB]
+Get:79 http://archive.ubuntu.com/ubuntu jammy/main amd64 libcue2 amd64 2.2.1-3build3 [19.0 kB]
+Get:80 http://archive.ubuntu.com/ubuntu jammy/main amd64 libdbusmenu-glib4 amd64 16.04.1+18.10.20180917-0ubuntu8 [45.4 kB]
+Get:81 http://archive.ubuntu.com/ubuntu jammy/main amd64 libdee-1.0-4 amd64 1.2.7+17.10.20170616-6ubuntu4 [91.2 kB]
+Get:82 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libexempi8 amd64 2.5.2-1ubuntu0.22.04.1 [502 kB]
+Get:83 http://archive.ubuntu.com/ubuntu jammy/main amd64 libexiv2-27 amd64 0.27.5-3ubuntu1 [844 kB]
+Get:84 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgexiv2-2 amd64 0.14.0-1build1 [81.4 kB]
+Get:85 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgif7 amd64 5.1.9-2build2 [33.8 kB]
+Get:86 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgnome-autoar-0-0 amd64 0.4.3-1 [31.0 kB]
+Get:87 http://archive.ubuntu.com/ubuntu jammy/main amd64 libxkbregistry0 amd64 1.4.0-1 [14.1 kB]
+Get:88 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libgnome-desktop-3-19 amd64 42.5-0ubuntu1 [120 kB]
+Get:89 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgphoto2-l10n all 2.5.27-1build2 [14.0 kB]
+Get:90 http://archive.ubuntu.com/ubuntu jammy/main amd64 libgsf-1-common all 1.14.47-1build2 [12.9 kB]
+Setting up gvfs-daemons (1.48.2-0ubuntu1) ...
+Setting up gvfs:amd64 (1.48.2-0ubuntu1) ...
+Processing triggers for dbus (1.12.20-2ubuntu4.1) ...
+Processing triggers for shared-mime-info (2.1-2) ...
+Processing triggers for udev (249.11-0ubuntu3.6) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for libglib2.0-0:amd64 (2.72.4-0ubuntu1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+/sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
+
+Processing triggers for man-db (2.10.2-1) ...
+Setting up tracker-miner-fs (3.3.0-1) ...
+Created symlink /etc/systemd/user/gnome-session.target.wants/tracker-miner-fs-3.service → /usr/lib/systemd/user/tracker-miner-fs-3.service.
+Unit /usr/lib/systemd/user/tracker-miner-fs-3.service is added as a dependency to a non-existent unit gnome-session.target.
+Setting up pinentry-gnome3 (1.1.1-1build2) ...
+Setting up libgoa-1.0-0b:amd64 (3.44.0-1ubuntu1) ...
+Setting up nautilus (1:42.2-0ubuntu2.1) ...
+Setting up libgdata22:amd64 (0.18.1-2build1) ...
+Setting up gnome-keyring (40.0-3ubuntu3) ...
+Created symlink /etc/systemd/user/graphical-session-pre.target.wants/gnome-keyring.service → /usr/lib/systemd/user/gnome-keyring.service.
+Setting up gvfs-backends (1.48.2-0ubuntu1) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+/sbin/ldconfig.real: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
+
+ayk@Ahmad:~$ apt-get install bc
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+ayk@Ahmad:~$ apt-get git
+E: Invalid operation git
+ayk@Ahmad:~$ apt-get install git
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+ayk@Ahmad:~$ sudo apt-get install git
+[sudo] password for ayk:
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+git is already the newest version (1:2.34.1-1ubuntu1.8).
+git set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+ayk@Ahmad:~$ sudo apt-get install bc
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following NEW packages will be installed:
+  bc
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 87.6 kB of archives.
+After this operation, 220 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 bc amd64 1.07.1-3build1 [87.6 kB]
+Fetched 87.6 kB in 2s (55.0 kB/s)
+Selecting previously unselected package bc.
+(Reading database ... 52325 files and directories currently installed.)
+Preparing to unpack .../bc_1.07.1-3build1_amd64.deb ...
+Unpacking bc (1.07.1-3build1) ...
+Setting up bc (1.07.1-3build1) ...
+Processing triggers for install-info (6.8-4build1) ...
+Processing triggers for man-db (2.10.2-1) ...
+ayk@Ahmad:~$ sudo apt-get install tput
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package tput
+ayk@Ahmad:~$ apt-get install libncurses5-dbg
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+ayk@Ahmad:~$ sudo apt-get install libncurses5-dbg
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Package libncurses5-dbg is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'libncurses5-dbg' has no installation candidate
+ayk@Ahmad:~$ sudo apt-get update
+Hit:1 http://archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+Get:3 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+Get:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease [107 kB]
+Fetched 336 kB in 1s (242 kB/s)
+Reading package lists... Done
+ayk@Ahmad:~$ sudo apt-get install libncurses5-dbg
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Package libncurses5-dbg is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+E: Package 'libncurses5-dbg' has no installation candidate
+ayk@Ahmad:~$ deb http://cz.archive.ubuntu.com/ubuntu bionic main
+Command 'deb' not found, did you mean:
+  command 'dub' from snap dub (1.19.0)
+  command 'den' from snap den (1.2.0-0)
+  command 'dab' from deb bsdgames (2.17-29)
+  command 'debc' from deb devscripts (2.22.1ubuntu1)
+  command 'dex' from deb dex (0.9.0-1)
+  command 'dub' from deb dub (1.27.0-2)
+  command 'debi' from deb devscripts (2.22.1ubuntu1)
+  command 'edb' from deb edb-debugger (1.3.0-1)
+  command 'dcb' from deb iproute2 (5.15.0-1ubuntu2)
+  command 'deb3' from deb quilt (0.66-2.1)
+  command 'derb' from deb icu-devtools (70.1-2)
+See 'snap info <snapname>' for additional versions.
+ayk@Ahmad:~$ /etc/apt/sources.list
+-bash: /etc/apt/sources.list: Permission denied
+ayk@Ahmad:~$ bc /etc/apt/sources.list
+bc 1.07.1
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006, 2008, 2012-2017 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'.
+/etc/apt/sources.list 3: syntax error
+/etc/apt/sources.list 3: illegal character: :
+/etc/apt/sources.list 3: syntax error
+/etc/apt/sources.list 8: syntax error
+/etc/apt/sources.list 8: illegal character: :
+/etc/apt/sources.list 8: syntax error
+/etc/apt/sources.list 14: syntax error
+/etc/apt/sources.list 14: illegal character: :
+/etc/apt/sources.list 14: syntax error
+/etc/apt/sources.list 16: syntax error
+/etc/apt/sources.list 16: illegal character: :
+/etc/apt/sources.list 16: syntax error
+/etc/apt/sources.list 24: syntax error
+/etc/apt/sources.list 24: illegal character: :
+/etc/apt/sources.list 24: syntax error
+/etc/apt/sources.list 26: syntax error
+/etc/apt/sources.list 26: illegal character: :
+/etc/apt/sources.list 26: syntax error
+/etc/apt/sources.list 34: syntax error
+/etc/apt/sources.list 34: illegal character: :
+/etc/apt/sources.list 34: syntax error
+/etc/apt/sources.list 37: syntax error
+/etc/apt/sources.list 37: illegal character: :
+/etc/apt/sources.list 37: syntax error
+/etc/apt/sources.list 39: syntax error
+/etc/apt/sources.list 39: illegal character: :
+/etc/apt/sources.list 39: syntax error
+/etc/apt/sources.list 41: syntax error
+/etc/apt/sources.list 41: illegal character: :
+/etc/apt/sources.list 41: syntax error
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+exit
+0
+wsl
+0
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+^C
+(interrupt) use quit to exit.
+quit
+ayk@Ahmad:~$ sudo apt-get install http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses/libncurses5-dbg_6.1-1ubuntu1_amd64.deb
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses
+E: Couldn't find any package by glob 'http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses'
+E: Couldn't find any package by regex 'http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses'
+ayk@Ahmad:~$ sudo apt-get http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses/libncurses5-dbg_6.1-1ubuntu1_amd64.deb
+E: Invalid operation http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses/libncurses5-dbg_6.1-1ubuntu1_amd64.deb
+ayk@Ahmad:~$ sudo apt-get install http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses/libncurses5-dbg_6.1-1ubuntu1_amd64.deb
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses
+E: Couldn't find any package by glob 'http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses'
+E: Couldn't find any package by regex 'http://kr.archive.ubuntu.com/ubuntu/pool/main/n/ncurses'
+ayk@Ahmad:~$ sudp apt-get install curl
+Command 'sudp' not found, did you mean:
+  command 'ssdp' from snap ssdp (0.0.1)
+  command 'sfdp' from deb graphviz (2.42.2-6)
+  command 'sudo' from deb sudo (1.9.9-1ubuntu2.2)
+  command 'sudo' from deb sudo-ldap (1.9.9-1ubuntu2.2)
+  command 'sup' from deb sup (20100519-3)
+See 'snap info <snapname>' for additional versions.
+ayk@Ahmad:~$ curl
+curl: try 'curl --help' or 'curl --manual' for more information
+ayk@Ahmad:~$ curl --help
+Usage: curl [options...] <url>
+ -d, --data <data>          HTTP POST data
+ -f, --fail                 Fail silently (no output at all) on HTTP errors
+ -h, --help <category>      Get help for commands
+ -i, --include              Include protocol response headers in the output
+ -o, --output <file>        Write to file instead of stdout
+ -O, --remote-name          Write output to a file named as the remote file
+ -s, --silent               Silent mode
+ -T, --upload-file <file>   Transfer local FILE to destination
+ -u, --user <user:password> Server user and password
+ -A, --user-agent <name>    Send User-Agent <name> to server
+ -v, --verbose              Make the operation more talkative
+ -V, --version              Show version number and quit
+
+This is not the full help, this menu is stripped into categories.
+Use "--help category" to get an overview of all categories.
+For all options use the manual or "--help all".
+ayk@Ahmad:~$ nmap
+Command 'nmap' not found, but can be installed with:
+sudo snap install nmap  # version 7.93, or
+sudo apt  install nmap  # version 7.91+dfsg1+really7.80+dfsg1-2build1
+See 'snap info nmap' for additional versions.
+ayk@Ahmad:~$ sudo apt install libncurses5-dbg
+Reading package lists... Done
+Get:5 http://archive.ubuntu.com/ubuntu jammy/universe amd64 nmap amd64 7.91+dfsg1+really7.80+dfsg1-2build1 [1731 kB]
+Fetched 5884 kB in 5s (1269 kB/s)
+Selecting previously unselected package liblinear4:amd64.
+(Reading database ... 52342 files and directories currently installed.)
+Preparing to unpack .../liblinear4_2.3.0+dfsg-5_amd64.deb ...
+Unpacking liblinear4:amd64 (2.3.0+dfsg-5) ...
+Selecting previously unselected package liblua5.3-0:amd64.
+Preparing to unpack .../liblua5.3-0_5.3.6-1build1_amd64.deb ...
+Unpacking liblua5.3-0:amd64 (5.3.6-1build1) ...
+Selecting previously unselected package lua-lpeg:amd64.
+Preparing to unpack .../lua-lpeg_1.0.2-1_amd64.deb ...
+Unpacking lua-lpeg:amd64 (1.0.2-1) ...
+Selecting previously unselected package nmap-common.
+Preparing to unpack .../nmap-common_7.91+dfsg1+really7.80+dfsg1-2build1_all.deb ...
+Unpacking nmap-common (7.91+dfsg1+really7.80+dfsg1-2build1) ...
+Selecting previously unselected package nmap.
+Preparing to unpack .../nmap_7.91+dfsg1+really7.80+dfsg1-2build1_amd64.deb ...
+Need to get 2434 kB of archives.
+After this operation, 4521 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 sysstat amd64 12.5.2-2ubuntu0.1 [487 kB]
+Get:2 http://archive.ubuntu.com/ubuntu jammy/universe amd64 parallel all 20210822+ds-2 [1947 kB]
+Fetched 2434 kB in 2s (1024 kB/s)
+Preconfiguring packages ...
+Selecting previously unselected package sysstat.
+(Reading database ... 53221 files and directories currently installed.)
+Preparing to unpack .../sysstat_12.5.2-2ubuntu0.1_amd64.deb ...
+Unpacking sysstat (12.5.2-2ubuntu0.1) ...
+Selecting previously unselected package parallel.
+Preparing to unpack .../parallel_20210822+ds-2_all.deb ...
+Adding 'diversion of /usr/bin/parallel to /usr/bin/parallel.moreutils by parallel'
+Adding 'diversion of /usr/share/man/man1/parallel.1.gz to /usr/share/man/man1/parallel.moreutils.1.gz by parallel'
+Unpacking parallel (20210822+ds-2) ...
+Setting up sysstat (12.5.2-2ubuntu0.1) ...
+
+Creating config file /etc/default/sysstat with new version
+update-alternatives: using /usr/bin/sar.sysstat to provide /usr/bin/sar (sar) in auto mode
+Created symlink /etc/systemd/system/sysstat.service.wants/sysstat-collect.timer → /lib/systemd/system/sysstat-collect.timer.
+Created symlink /etc/systemd/system/sysstat.service.wants/sysstat-summary.timer → /lib/systemd/system/sysstat-summary.timer.
+Created symlink /etc/systemd/system/multi-user.target.wants/sysstat.service → /lib/systemd/system/sysstat.service.
+Setting up parallel (20210822+ds-2) ...
+Processing triggers for man-db (2.10.2-1) ...
+ayk@Ahmad:~$ git clone https://github.com/MortezaBashsiz/CFScanner.git
+Cloning into 'CFScanner'...
+remote: Enumerating objects: 438, done.
+remote: Counting objects: 100% (99/99), done.
+remote: Compressing objects: 100% (57/57), done.
+remote: Total 438 (delta 52), reused 60 (delta 40), pack-reused 339
+Receiving objects: 100% (438/438), 14.10 MiB | 1.90 MiB/s, done.
+Resolving deltas: 100% (196/196), done.
+ayk@Ahmad:~$ cd CFScanner/scripts
+ayk@Ahmad:~/CFScanner/scripts$ chmod +x v2ctl v2ctl-mac v2ray v2ray-mac
+ayk@Ahmad:~/CFScanner/scripts$ ls
+cf.local.iplist  cfFindIP.sh  config.json.temp  config.script  custom.subnets  v2ctl  v2ctl-mac  v2ray  v2ray-mac
+ayk@Ahmad:~/CFScanner/scripts$ curl -s http://bot.sudoer.net/config.real -o ./config.real
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 100
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 23.227.37.1
+FAILED 23.227.37.3
+FAILED 23.227.37.0
+FAILED 23.227.37.2
+FAILED 23.227.37.5
+FAILED 23.227.37.4
+FAILED 23.227.37.7
+FAILED 23.227.37.6
+FAILED 23.227.37.8
+FAILED 23.227.37.9
+FAILED 23.227.37.10
+FAILED 23.227.37.11
+FAILED 23.227.37.13
+FAILED 23.227.37.12
+FAILED 23.227.37.14
+FAILED 23.227.37.15
+FAILED 23.227.37.17
+FAILED 23.227.37.16
+FAILED 23.227.37.18
+FAILED 23.227.37.19
+FAILED 23.227.37.21
+FAILED 23.227.37.22
+FAILED 23.227.37.20
+FAILED 23.227.37.23
+FAILED 23.227.37.25
+FAILED 23.227.37.24
+FAILED 23.227.37.26
+FAILED 23.227.37.27
+FAILED 23.227.37.28
+FAILED 23.227.37.29
+FAILED 23.227.37.31
+FAILED 23.227.37.30
+FAILED 23.227.37.33
+FAILED 23.227.37.32
+FAILED 23.227.37.34
+FAILED 23.227.37.36
+FAILED 23.227.37.37
+FAILED 23.227.37.35
+FAILED 23.227.37.38
+FAILED 23.227.37.39
+FAILED 23.227.37.41
+FAILED 23.227.37.40
+FAILED 23.227.37.42
+FAILED 23.227.37.43
+FAILED 23.227.37.44
+FAILED 23.227.37.47
+FAILED 23.227.37.45
+FAILED 23.227.37.48
+FAILED 23.227.37.49
+FAILED 23.227.37.50
+FAILED 23.227.37.51
+FAILED 23.227.37.53
+FAILED 23.227.37.52
+FAILED 23.227.37.54
+FAILED 23.227.37.55
+FAILED 23.227.37.56
+FAILED 23.227.37.46
+FAILED 23.227.37.57
+FAILED 23.227.37.58
+FAILED 23.227.37.60
+FAILED 23.227.37.59
+FAILED 23.227.37.61
+FAILED 23.227.37.62
+FAILED 23.227.37.63
+FAILED 23.227.37.66
+FAILED 23.227.37.64
+FAILED 23.227.37.65
+FAILED 23.227.37.67
+FAILED 23.227.37.68
+FAILED 23.227.37.69
+FAILED 23.227.37.70
+FAILED 23.227.37.71
+FAILED 23.227.37.72
+FAILED 23.227.37.73
+FAILED 23.227.37.74
+FAILED 23.227.37.75
+FAILED 23.227.37.76
+FAILED 23.227.37.77
+FAILED 23.227.37.78
+FAILED 23.227.37.79
+FAILED 23.227.37.81
+FAILED 23.227.37.80
+FAILED 23.227.37.82
+FAILED 23.227.37.83
+FAILED 23.227.37.85
+FAILED 23.227.37.84
+FAILED 23.227.37.86
+FAILED 23.227.37.87
+FAILED 23.227.37.89
+FAILED 23.227.37.90
+FAILED 23.227.37.91
+FAILED 23.227.37.88
+FAILED 23.227.37.93
+FAILED 23.227.37.92
+FAILED 23.227.37.94
+FAILED 23.227.37.95
+FAILED 23.227.37.97
+FAILED 23.227.37.98
+FAILED 23.227.37.99
+FAILED 23.227.37.100
+FAILED 23.227.37.101
+FAILED 23.227.37.102
+FAILED 23.227.37.103
+FAILED 23.227.37.104
+FAILED 23.227.37.106
+FAILED 23.227.37.105
+FAILED 23.227.37.107
+FAILED 23.227.37.108
+FAILED 23.227.37.109
+FAILED 23.227.37.110
+FAILED 23.227.37.96
+FAILED 23.227.37.111
+FAILED 23.227.37.112
+FAILED 23.227.37.113
+FAILED 23.227.37.114
+FAILED 23.227.37.115
+FAILED 23.227.37.116
+FAILED 23.227.37.117
+FAILED 23.227.37.118
+FAILED 23.227.37.119
+FAILED 23.227.37.120
+FAILED 23.227.37.121
+FAILED 23.227.37.122
+FAILED 23.227.37.123
+FAILED 23.227.37.125
+FAILED 23.227.37.126
+FAILED 23.227.37.127
+FAILED 23.227.37.129
+FAILED 23.227.37.128
+FAILED 23.227.37.131
+FAILED 23.227.37.130
+FAILED 23.227.37.132
+FAILED 23.227.37.133
+FAILED 23.227.37.124
+FAILED 23.227.37.135
+FAILED 23.227.37.134
+FAILED 23.227.37.136
+FAILED 23.227.37.138
+FAILED 23.227.37.137
+FAILED 23.227.37.139
+FAILED 23.227.37.140
+FAILED 23.227.37.141
+FAILED 23.227.37.142
+FAILED 23.227.37.144
+FAILED 23.227.37.143
+FAILED 23.227.37.145
+FAILED 23.227.37.146
+FAILED 23.227.37.147
+FAILED 23.227.37.149
+FAILED 23.227.37.150
+FAILED 23.227.37.151
+FAILED 23.227.37.152
+FAILED 23.227.37.153
+FAILED 23.227.37.154
+FAILED 23.227.37.155
+FAILED 23.227.37.156
+FAILED 23.227.37.157
+FAILED 23.227.37.158
+FAILED 23.227.37.159
+FAILED 23.227.37.160
+FAILED 23.227.37.161
+FAILED 23.227.37.148
+FAILED 23.227.37.162
+FAILED 23.227.37.163
+FAILED 23.227.37.164
+FAILED 23.227.37.166
+FAILED 23.227.37.165
+FAILED 23.227.37.167
+FAILED 23.227.37.169
+FAILED 23.227.37.168
+FAILED 23.227.37.171
+FAILED 23.227.37.170
+FAILED 23.227.37.172
+FAILED 23.227.37.173
+FAILED 23.227.37.174
+FAILED 23.227.37.175
+FAILED 23.227.37.176
+FAILED 23.227.37.177
+FAILED 23.227.37.178
+FAILED 23.227.37.179
+FAILED 23.227.37.180
+FAILED 23.227.37.182
+FAILED 23.227.37.181
+FAILED 23.227.37.185
+FAILED 23.227.37.186
+FAILED 23.227.37.184
+FAILED 23.227.37.183
+FAILED 23.227.37.187
+FAILED 23.227.37.188
+FAILED 23.227.37.189
+FAILED 23.227.37.190
+FAILED 23.227.37.192
+FAILED 23.227.37.191
+FAILED 23.227.37.193
+FAILED 23.227.37.194
+FAILED 23.227.37.195
+FAILED 23.227.37.196
+FAILED 23.227.37.197
+FAILED 23.227.37.198
+FAILED 23.227.37.199
+FAILED 23.227.37.201
+FAILED 23.227.37.200
+FAILED 23.227.37.202
+FAILED 23.227.37.204
+FAILED 23.227.37.205
+FAILED 23.227.37.206
+FAILED 23.227.37.208
+FAILED 23.227.37.207
+FAILED 23.227.37.210
+FAILED 23.227.37.211
+FAILED 23.227.37.209
+FAILED 23.227.37.203
+FAILED 23.227.37.212
+FAILED 23.227.37.213
+FAILED 23.227.37.214
+FAILED 23.227.37.215
+FAILED 23.227.37.217
+FAILED 23.227.37.218
+FAILED 23.227.37.216
+FAILED 23.227.37.219
+FAILED 23.227.37.221
+FAILED 23.227.37.220
+FAILED 23.227.37.223
+FAILED 23.227.37.222
+FAILED 23.227.37.224
+FAILED 23.227.37.226
+FAILED 23.227.37.225
+FAILED 23.227.37.228
+FAILED 23.227.37.227
+FAILED 23.227.37.229
+FAILED 23.227.37.231
+FAILED 23.227.37.230
+FAILED 23.227.37.232
+FAILED 23.227.37.233
+FAILED 23.227.37.234
+FAILED 23.227.37.235
+FAILED 23.227.37.237
+FAILED 23.227.37.236
+FAILED 23.227.37.238
+FAILED 23.227.37.239
+FAILED 23.227.37.241
+FAILED 23.227.37.240
+FAILED 23.227.37.242
+FAILED 23.227.37.243
+FAILED 23.227.37.245
+FAILED 23.227.37.244
+FAILED 23.227.37.246
+FAILED 23.227.37.247
+FAILED 23.227.37.249
+FAILED 23.227.37.248
+FAILED 23.227.37.250
+FAILED 23.227.37.252
+FAILED 23.227.37.253
+FAILED 23.227.37.254
+FAILED 23.227.37.255
+| Progress bar of main IPs: [>                                                  ] .38%
+
+OK 23.227.38.4 ResponseTime 1793
+OK 23.227.38.2 ResponseTime 1906
+FAILED 23.227.38.0
+FAILED 23.227.38.1
+FAILED 23.227.38.3
+FAILED 23.227.38.7
+FAILED 23.227.38.5
+FAILED 23.227.38.6
+OK 23.227.38.9 ResponseTime 1343
+OK 23.227.38.8 ResponseTime 1425
+OK 23.227.38.11 ResponseTime 1438
+OK 23.227.38.15 ResponseTime 1623
+OK 23.227.38.10 ResponseTime 1584
+OK 23.227.38.13 ResponseTime 1667
+OK 23.227.38.14 ResponseTime 1681
+OK 23.227.38.12 ResponseTime 1498
+OK 23.227.38.16 ResponseTime 1385
+OK 23.227.38.17 ResponseTime 1387
+OK 23.227.38.18 ResponseTime 1319
+OK 23.227.38.22 ResponseTime 1435
+OK 23.227.38.19 ResponseTime 1540
+OK 23.227.38.20 ResponseTime 1568
+OK 23.227.38.21 ResponseTime 1563
+OK 23.227.38.23 ResponseTime 1524
+OK 23.227.38.24 ResponseTime 1400
+OK 23.227.38.27 ResponseTime 1460
+OK 23.227.38.25 ResponseTime 1616
+OK 23.227.38.26 ResponseTime 1639
+OK 23.227.38.29 ResponseTime 1608
+OK 23.227.38.28 ResponseTime 1630
+OK 23.227.38.30 ResponseTime 1651
+OK 23.227.38.31 ResponseTime 1599
+FA| Progress bar of main IPs: [>                                                  ] .77%
+
+OK 23.227.60.6 ResponseTime 1338
+OK 23.227.60.2 ResponseTime 1443
+OK 23.227.60.7 ResponseTime 1426
+OK 23.227.60.4 ResponseTime 1618
+OK 23.227.60.3 ResponseTime 1749
+OK 23.227.60.5 ResponseTime 1800
+OK 23.227.60.1 ResponseTime 1801
+OK| Progress bar of main IPs: [>                                                  ] 1.94%
+    | Progress bar of main IPs: [=>                                                 ] 3.11%
+  | Progress bar of main IPs: [=>                                                 ] 3.50%
+  | Progress bar of main IPs: [=>                                                 ] 3.89%
+
+^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 100
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 23.227.37.1
+FAILED 23.227.37.0
+FAILED 23.227.37.7
+FAILED 23.227.37.5
+FAILED 23.227.37.2
+FAILED 23.227.37.3
+FAILED 23.227.37.4
+FAILED 23.227.37.6
+FAILED 23.227.37.9
+FAILED 23.227.37.13
+FAILED 23.227.37.12
+FAILED 23.227.37.14
+FAILED 23.227.37.10
+FAILED 23.227.37.11
+FAILED 23.227.37.15
+FAILED 23.227.37.16
+FAILED 23.227.37.19
+FAILED 23.227.37.17
+FAILED 23.227.37.20
+FAILED 23.227.37.21
+FAILED 23.227.37.18
+FAILED 23.227.37.22
+FAILED 23.227.37.8
+FAILED 23.227.37.23
+FAILED 23.227.37.26
+FAILED 23.227.37.25
+FAILED 23.227.37.28
+FAILED 23.227.37.24
+FAILED 23.227.37.27
+FAILED 23.227.37.29
+FAILED 23.227.37.30
+FAILED 23.227.37.31
+FAILED 23.227.37.32
+FAILED 23.227.37.34
+FAILED 23.227.37.33
+FAILED 23.227.37.36
+FAILED 23.227.37.35
+FAILED 23.227.37.37
+FAILED 23.227.37.38
+FAILED 23.227.37.39
+FAILED 23.227.37.40
+FAILED 23.227.37.43
+FAILED 23.227.37.42
+FAILED 23.227.37.41
+FAILED 23.227.37.44
+FAILED 23.227.37.45
+FAILED 23.227.37.46
+FAILED 23.227.37.47
+FAILED 23.227.37.48
+FAILED 23.227.37.49
+FAILED 23.227.37.52
+FAILED 23.227.37.50
+FAILED 23.227.37.53
+FAILED 23.227.37.51
+FAILED 23.227.37.54
+FAILED 23.227.37.55
+FAILED 23.227.37.56
+FAILED 23.227.37.57
+FAILED 23.227.37.58
+FAILED 23.227.37.59
+FAILED 23.227.37.60
+FAILED 23.227.37.62
+FAILED 23.227.37.63
+FAILED 23.227.37.64
+FAILED 23.227.37.65
+FAILED 23.227.37.66
+FAILED 23.227.37.67
+FAILED 23.227.37.68
+FAILED 23.227.37.70
+FAILED 23.227.37.69
+FAILED 23.227.37.61
+FAILED 23.227.37.71
+FAILED 23.227.37.72
+FAILED 23.227.37.74
+FAILED 23.227.37.73
+FAILED 23.227.37.75
+FAILED 23.227.37.77
+FAILED 23.227.37.76
+FAILED 23.227.37.78
+FAILED 23.227.37.79
+FAILED 23.227.37.80
+FAILED 23.227.37.82
+FAILED 23.227.37.83
+FAILED 23.227.37.81
+FAILED 23.227.37.84
+FAILED 23.227.37.85
+FAILED 23.227.37.87
+FAILED 23.227.37.86
+FAILED 23.227.37.88
+FAILED 23.227.37.90
+FAILED 23.227.37.89
+FAILED 23.227.37.91
+FAILED 23.227.37.93
+FAILED 23.227.37.92
+FAILED 23.227.37.94
+FAILED 23.227.37.95
+FAILED 23.227.37.96
+FAILED 23.227.37.97
+FAILED 23.227.37.99
+FAILED 23.227.37.98
+FAILED 23.227.37.101
+FAILED 23.227.37.100
+FAILED 23.227.37.102
+FAILED 23.227.37.104
+FAILED 23.227.37.106
+FAILED 23.227.37.105
+FAILED 23.227.37.107
+FAILED 23.227.37.103
+FAILED 23.227.37.108
+FAILED 23.227.37.109
+FAILED 23.227.37.110
+FAILED 23.227.37.111
+FAILED 23.227.37.114
+FAILED 23.227.37.112
+FAILED 23.227.37.113
+FAILED 23.227.37.115
+FAILED 23.227.37.117
+FAILED 23.227.37.118
+FAILED 23.227.37.122
+FAILED 23.227.37.119
+FAILED 23.227.37.123
+FAILED 23.227.37.120
+FAILED 23.227.37.121
+FAILED 23.227.37.116
+FAILED 23.227.37.125
+FAILED 23.227.37.126
+FAILED 23.227.37.127
+FAILED 23.227.37.129
+FAILED 23.227.37.130
+FAILED 23.227.37.128
+FAILED 23.227.37.124
+FAILED 23.227.37.131
+FAILED 23.227.37.132
+FAILED 23.227.37.133
+FAILED 23.227.37.134
+FAILED 23.227.37.137
+FAILED 23.227.37.135
+FAILED 23.227.37.136
+FAILED 23.227.37.138
+FAILED 23.227.37.139
+FAILED 23.227.37.140
+FAILED 23.227.37.141
+FAILED 23.227.37.144
+FAILED 23.227.37.143
+FAILED 23.227.37.145
+FAILED 23.227.37.142
+FAILED 23.227.37.147
+FAILED 23.227.37.146
+FAILED 23.227.37.148
+FAILED 23.227.37.149
+FAILED 23.227.37.150
+FAILED 23.227.37.153
+FAILED 23.227.37.152
+FAILED 23.227.37.151
+FAILED 23.227.37.155
+FAILED 23.227.37.154
+FAILED 23.227.37.157
+FAILED 23.227.37.156
+FAILED 23.227.37.159
+FAILED 23.227.37.158
+FAILED 23.227.37.160
+FAILED 23.227.37.161
+FAILED 23.227.37.162
+FAILED 23.227.37.163
+FAILED 23.227.37.164
+FAILED 23.227.37.165
+FAILED 23.227.37.166
+FAILED 23.227.37.168
+FAILED 23.227.37.167
+FAILED 23.227.37.169
+FAILED 23.227.37.170
+FAILED 23.227.37.172
+FAILED 23.227.37.173
+FAILED 23.227.37.174
+FAILED 23.227.37.175
+FAILED 23.227.37.176
+FAILED 23.227.37.177
+FAILED 23.227.37.178
+FAILED 23.227.37.171
+FAILED 23.227.37.179
+FAILED 23.227.37.180
+FAILED 23.227.37.181
+FAILED 23.227.37.182
+FAILED 23.227.37.185
+FAILED 23.227.37.183
+FAILED 23.227.37.184
+FAILED 23.227.37.187
+FAILED 23.227.37.188
+FAILED 23.227.37.186
+FAILED 23.227.37.190
+FAILED 23.227.37.189
+FAILED 23.227.37.191
+FAILED 23.227.37.193
+FAILED 23.227.37.192
+FAILED 23.227.37.195
+FAILED 23.227.37.194
+FAILED 23.227.37.196
+FAILED 23.227.37.197
+FAILED 23.227.37.198
+FAILED 23.227.37.199
+FAILED 23.227.37.200
+FAILED 23.227.37.201
+FAILED 23.227.37.202
+FAILED 23.227.37.204
+FAILED 23.227.37.203
+FAILED 23.227.37.205
+FAILED 23.227.37.206
+FAILED 23.227.37.207
+FAILED 23.227.37.208
+FAILED 23.227.37.209
+FAILED 23.227.37.210
+FAILED 23.227.37.211
+FAILED 23.227.37.212
+FAILED 23.227.37.213
+FAILED 23.227.37.214
+FAILED 23.227.37.215
+FAILED 23.227.37.216
+FAILED 23.227.37.217
+FAILED 23.227.37.218
+FAILED 23.227.37.219
+FAILED 23.227.37.220
+FAILED 23.227.37.221
+FAILED 23.227.37.222
+FAILED 23.227.37.223
+FAILED 23.227.37.224
+FAILED 23.227.37.227
+FAILED 23.227.37.226
+FAILED 23.227.37.228
+FAILED 23.227.37.229
+FAILED 23.227.37.232
+FAILED 23.227.37.230
+FAILED 23.227.37.231
+FAILED 23.227.37.234
+FAILED 23.227.37.225
+FAILED 23.227.37.233
+FAILED 23.227.37.236
+FAILED 23.227.37.235
+FAILED 23.227.37.237
+FAILED 23.227.37.238
+FAILED 23.227.37.239
+FAILED 23.227.37.240
+FAILED 23.227.37.242
+FAILED 23.227.37.241
+FAILED 23.227.37.243
+FAILED 23.227.37.244
+FAILED 23.227.37.245
+FAILED 23.227.37.247
+FAILED 23.227.37.246
+FAILED 23.227.37.248
+FAILED 23.227.37.249
+FAILED 23.227.37.250
+FAILED 23.227.37.251
+FAILED 23.227.37.252
+FAILED 23.227.37.253
+FAILED 23.227.37.254
+| Progress bar of main IPs: [>                                                  ] .38%
+
+OK 23.227.38.4 ResponseTime 1570
+OK 23.227.38.5 ResponseTime 1634
+OK 23.227.38.3 ResponseTime 1739
+OK 23.227.38.1 ResponseTime 1714
+OK 23.227.38.0 ResponseTime 1736
+OK 23.227.38.6 ResponseTime 1743
+OK 23.227.38.7 ResponseTime 1808
+OK 23.227.38.2 ResponseTime 1840
+OK 23.227.38.9 ResponseTime 1348
+OK 23.227.38.10 ResponseTime 1355
+OK 23.227.38.14 ResponseTime 1383
+OK 23.227.38.13 ResponseTime 1592
+OK 23.227.38.15 ResponseTime 1585
+OK 23.227.38.12 ResponseTime 1629
+OK 23.227.38.8 ResponseTime 1591
+FAILED 23.227.38.11
+OK 23.227.38.16 ResponseTime 1404
+OK 23.227.38.18 ResponseTime 1304
+OK 23.227.38.17 ResponseTime 1431
+OK 23.227.38.19 ResponseTime 1414
+OK 23.227.38.21 ResponseTime 1403
+OK 23.227.38.20 ResponseTime 1475
+OK 23.227.38.22 ResponseTime 1475
+OK 23.227.38.23 ResponseTime 1393
+OK 23.227.38.25 ResponseTime 1582
+OK 23.227.38.24 ResponseTime 1655
+OK 23.227.38.26 ResponseTime 1715
+OK 23.227.38.30 ResponseTime 1632
+OK 23.227.38.29 ResponseTime 1575
+OK 23.227.38.27 ResponseTime 1682
+OK 23.227.38.31 ResponseTime 1716
+OK 23.227.38.28 ResponseTime 1663
+FAILED 23.227.38.36
+FAILED 23.227.38.32
+OK 23.227.38.34 ResponseTime 1304
+OK 23.227.38.33 ResponseTime 1344
+OK 23.227.38.35 ResponseTime 1298
+OK 23.227.38.37 ResponseTime 1381
+OK 23.227.38.38 ResponseTime 1520
+OK 23.227.38.39 ResponseTime 1524
+OK 23.227.38.40 ResponseTime 1397
+OK 23.227.38.41 ResponseTime 1396
+OK 23.227.38.42 ResponseTime 1194
+OK 23.227.38.44 ResponseTime 1217
+OK 23.227.38.43 ResponseTime 1263
+OK 23.227.38.45 ResponseTime 1219
+OK 23.227.38.47 ResponseTime 1252
+OK 23.227.38.46 ResponseTime 1405
+OK 23.227.38.48 ResponseTime 1363
+OK 23.227.38.49 ResponseTime 1427
+FAILED 23.227.38.53
+OK 23.227.38.50 ResponseTime 1169
+OK 23.227.38.51 ResponseTime 1375
+OK 23.227.38.54 ResponseTime 1377
+OK 23.227.38.52 ResponseTime 1486
+OK 23.227.38.55 ResponseTime 1337
+OK 23.227.38.56 ResponseTime 1382
+OK 23.227.38.57 ResponseTime 1448
+OK 23.227.38.58 ResponseTime 1291
+FAILED 23.227.38.64
+FAILED 23.227.38.65
+FAILED 23.227.38.66
+FAILED 23.227.38.67
+FAILED 23.227.38.69
+FAILED 23.227.38.68
+FAILED 23.227.38.70
+FAILED 23.227.38.71
+FAILED 23.227.38.72
+FAILED 23.227.38.73
+FAILED 23.227.38.74
+OK 23.227.38.59 ResponseTime 1229
+OK 23.227.38.60 ResponseTime 1307
+OK 23.227.38.61 ResponseTime 1594
+OK 23.227.38.63 ResponseTime 1670
+OK 23.227.38.62 ResponseTime 1736
+OK 23.227.38.76 ResponseTime 1359
+OK 23.227.38.75 ResponseTime 1344
+OK 23.227.38.78 ResponseTime 1354
+OK 23.227.38.79 ResponseTime 1467
+FAILED 23.227.38.77
+OK 23.227.38.82 ResponseTime 1363
+OK 23.227.38.81 ResponseTime 1395
+OK 23.227.38.80 ResponseTime 1395
+OK 23.227.38.83 ResponseTime 1185
+OK 23.227.38.84 ResponseTime 1195
+OK 23.227.38.85 ResponseTime 1189
+OK 23.227.38.86 ResponseTime 1245
+OK 23.227.38.87 ResponseTime 1289
+OK 23.227.38.90 ResponseTime 1282
+OK 23.227.38.88 ResponseTime 1506
+OK 23.227.38.89 ResponseTime 1483
+OK 23.227.38.91 ResponseTime 1377
+OK 23.227.38.92 ResponseTime 1413
+OK 23.227.38.93 ResponseTime 1174
+OK 23.227.38.94 ResponseTime 1247
+OK 23.227.38.95 ResponseTime 1360
+OK 23.227.38.96 ResponseTime 1262
+OK 23.227.38.97 ResponseTime 1217
+OK 23.227.38.98 ResponseTime 1313
+OK 23.227.38.99 ResponseTime 1193
+OK 23.227.38.100 ResponseTime 1284
+OK 23.227.38.101 ResponseTime 1193
+OK 23.227.38.102 ResponseTime 1236
+OK 23.227.38.103 ResponseTime 1185
+OK 23.227.38.104 ResponseTime 1431
+OK 23.227.38.105 ResponseTime 1414
+OK 23.227.38.106 ResponseTime 1330
+FAILED 23.227.38.113
+FAILED 23.227.38.112
+OK 23.227.38.107 ResponseTime 1206
+OK 23.227.38.108 ResponseTime 1209
+OK 23.227.38.109 ResponseTime 1236
+OK 23.227.38.110 ResponseTime 1111
+OK 23.227.38.111 ResponseTime 1121
+OK 23.227.38.114 ResponseTime 1311
+OK 23.227.38.116 ResponseTime 1269
+OK 23.227.38.115 ResponseTime 1296
+OK 23.227.38.117 ResponseTime 1295
+OK 23.227.38.118 ResponseTime 1078
+OK 23.227.38.121 ResponseTime 1205
+OK 23.227.38.119 ResponseTime 1485
+OK 23.227.38.120 ResponseTime 1447
+OK 23.227.38.122 ResponseTime 1581
+OK 23.227.38.123 ResponseTime 1196
+OK 23.227.38.124 ResponseTime 1270
+OK 23.227.38.126 ResponseTime 1111
+OK 23.227.38.125 ResponseTime 1253
+OK 23.227.38.127 ResponseTime 1211
+OK 23.227.38.129 ResponseTime 1244
+OK 23.227.38.128 ResponseTime 1407
+OK 23.227.38.130 ResponseTime 1275
+OK 23.227.38.131 ResponseTime 1164
+OK 23.227.38.132 ResponseTime 1196
+OK 23.227.38.134 ResponseTime 1139
+OK 23.227.38.133 ResponseTime 1741
+OK 23.227.38.135 ResponseTime 1288
+OK 23.227.38.136 ResponseTime 1208
+OK 23.227.38.137 ResponseTime 1354
+OK 23.227.38.140 ResponseTime 1252
+OK 23.227.38.139 ResponseTime 1192
+OK 23.227.38.138 ResponseTime 1242
+OK 23.227.38.141 ResponseTime 1342
+OK 23.227.38.142 ResponseTime 1494
+OK 23.227.38.143 ResponseTime 1279
+OK 23.227.38.144 ResponseTime 1181
+OK 23.227.38.145 ResponseTime 1424
+OK 23.227.38.148 ResponseTime 1314
+OK 23.227.38.146 ResponseTime 1400
+OK 23.227.38.147 ResponseTime 1377
+OK 23.227.38.149 ResponseTime 1369
+OK 23.227.38.151 ResponseTime 1308
+OK 23.227.38.152 ResponseTime 1303
+OK 23.227.38.150 ResponseTime 1297
+OK 23.227.38.156 ResponseTime 1275
+OK 23.227.38.154 ResponseTime 1318
+OK 23.227.38.155 ResponseTime 1418
+OK 23.227.38.153 ResponseTime 1593
+OK 23.227.38.157 ResponseTime 1170
+OK 23.227.38.159 ResponseTime 1243
+OK 23.227.38.158 ResponseTime 1231
+OK 23.227.38.160 ResponseTime 1159
+OK 23.227.38.161 ResponseTime 1377
+OK 23.227.38.162 ResponseTime 1372
+OK 23.227.38.164 ResponseTime 1321
+OK 23.227.38.163 ResponseTime 1352
+OK 23.227.38.165 ResponseTime 1254
+OK 23.227.38.166 ResponseTime 1181
+OK 23.227.38.168 ResponseTime 1139
+OK 23.227.38.167 ResponseTime 1287
+OK 23.227.38.170 ResponseTime 1353
+OK 23.227.38.172 ResponseTime 1276
+OK 23.227.38.171 ResponseTime 1299
+OK 23.227.38.169 ResponseTime 1416
+OK 23.227.38.173 ResponseTime 1277
+OK 23.227.38.175 ResponseTime 1148
+OK 23.227.38.174 ResponseTime 1253
+OK 23.227.38.176 ResponseTime 1139
+OK 23.227.38.178 ResponseTime 1189
+OK 23.227.38.179 ResponseTime 1166
+OK 23.227.38.180 ResponseTime 1156
+OK 23.227.38.177 ResponseTime 1414
+OK 23.227.38.181 ResponseTime 1070
+OK 23.227.38.183 ResponseTime 1122
+OK 23.227.38.182 ResponseTime 1248
+OK 23.227.38.184 ResponseTime 1142
+OK 23.227.38.187 ResponseTime 1319
+OK 23.227.38.186 ResponseTime 1385
+OK 23.227.38.185 ResponseTime 1506
+OK 23.227.38.188 ResponseTime 1338
+OK 23.227.38.189 ResponseTime 1174
+OK 23.227.38.190 ResponseTime 1200
+OK 23.227.38.192 ResponseTime 1268
+OK 23.227.38.191 ResponseTime 1407
+OK 23.227.38.194 ResponseTime 1169
+OK 23.227.38.195 ResponseTime 1320
+OK 23.227.38.196 ResponseTime 1263
+OK 23.227.38.193 ResponseTime 1291
+OK 23.227.38.198 ResponseTime 1276
+OK 23.227.38.199 ResponseTime 1174
+OK 23.227.38.197 ResponseTime 1494
+OK 23.227.38.200 ResponseTime 1110
+OK 23.227.38.201 ResponseTime 1171
+OK 23.227.38.202 ResponseTime 1174
+OK 23.227.38.203 ResponseTime 1249
+OK 23.227.38.204 ResponseTime 1255
+OK 23.227.38.205 ResponseTime 1186
+OK 23.227.38.207 ResponseTime 1170
+OK 23.227.38.206 ResponseTime 1361
+OK 23.227.38.208 ResponseTime 1261
+OK 23.227.38.209 ResponseTime 1193
+OK 23.227.38.211 ResponseTime 1157
+OK 23.227.38.212 ResponseTime 1182
+OK 23.227.38.210 ResponseTime 1379
+OK 23.227.38.213 ResponseTime 1186
+OK 23.227.38.214 ResponseTime 1299
+OK 23.227.38.215 ResponseTime 1244
+OK 23.227.38.216 ResponseTime 1237
+OK 23.227.38.217 ResponseTime 1085
+OK 23.227.38.219 ResponseTime 1174
+OK 23.227.38.220 ResponseTime 1253
+OK 23.227.38.218 ResponseTime 1476
+OK 23.227.38.221 ResponseTime 1293
+OK 23.227.38.224 ResponseTime 1279
+OK 23.227.38.223 ResponseTime 1309
+OK 23.227.38.222 ResponseTime 1448
+OK 23.227.38.225 ResponseTime 1299
+OK 23.227.38.227 ResponseTime 1219
+OK 23.227.38.226 ResponseTime 1324
+OK 23.227.38.228 ResponseTime 1235
+OK 23.227.38.229 ResponseTime 1185
+OK 23.227.38.231 ResponseTime 1178
+OK 23.227.38.230 ResponseTime 1240
+OK 23.227.38.232 ResponseTime 1299
+OK 23.227.38.233 ResponseTime 1253
+OK 23.227.38.234 ResponseTime 1189
+OK 23.227.38.235 ResponseTime 1244
+OK 23.227.38.236 ResponseTime 1164
+OK 23.227.38.237 ResponseTime 1244
+OK 23.227.38.240 ResponseTime 1134
+OK 23.227.38.239 ResponseTime 1253
+OK 23.227.38.238 ResponseTime 1299
+OK 23.227.38.241 ResponseTime 1211
+OK 23.227.38.242 ResponseTime 1130
+OK 23.227.38.243 ResponseTime 1257
+OK 23.227.38.244 ResponseTime 1421
+OK 23.227.38.245 ResponseTime 1263
+OK 23.227.38.246 ResponseTime 1299
+OK 23.227.38.247 ResponseTime 1354
+OK 23.227.38.248 ResponseTime 1412
+OK 23.227.38.250 ResponseTime 1255
+OK 23.227.38.249 ResponseTime 1484
+OK 23.227.38.251 ResponseTime 1298
+OK 23.227.38.252 ResponseTime 1326
+OK 23.227.38.253 ResponseTime 1195
+OK 23.227.38.254 ResponseTime 1279
+OK 23.227.39.0 ResponseTime 1274
+OK 23.227.38.255 ResponseTime 1343
+OK 23.227.39.2 ResponseTime 1326
+OK 23.227.39.3 ResponseTime 1193
+OK 23.227.39.4 ResponseTime 1369
+OK 23.227.39.1 ResponseTime 1677
+OK 23.227.39.5 ResponseTime 1281
+OK 23.227.39.6 ResponseTime 1190
+OK 23.227.39.8 ResponseTime 1191
+OK 23.227.39.7 ResponseTime 1641
+OK 23.227.39.9 ResponseTime 1276
+OK 23.227.39.11 ResponseTime 1259
+OK 23.227.39.12 ResponseTime 1307
+OK 23.227.39.10 ResponseTime 1216
+OK 23.227.39.13 ResponseTime 1208
+OK 23.227.39.14 ResponseTime 1183
+OK 23.227.39.15 ResponseTime 1190
+OK 23.227.39.16 ResponseTime 1209
+OK 23.227.39.17 ResponseTime 1381
+OK 23.227.39.18 ResponseTime 1314
+OK 23.227.39.19 ResponseTime 1290
+OK 23.227.39.20 ResponseTime 1394
+OK 23.227.39.21 ResponseTime 1144
+OK 23.227.39.22 ResponseTime 1169
+OK 23.227.39.23 ResponseTime 1174
+OK 23.227.39.24 ResponseTime 1177
+OK 23.227.39.25 ResponseTime 1156
+OK 23.227.39.26 ResponseTime 1202
+OK 23.227.39.27 ResponseTime 1255
+OK 23.227.39.28 ResponseTime 1211
+OK 23.227.39.29 ResponseTime 1523
+OK 23.227.39.31 ResponseTime 1255
+OK 23.227.39.30 ResponseTime 1339
+OK 23.227.39.32 ResponseTime 1192
+OK 23.227.39.34 ResponseTime 1192
+OK 23.227.39.33 ResponseTime 1352
+OK 23.227.39.35 ResponseTime 1552
+OK 23.227.39.36 ResponseTime 1257
+OK 23.227.39.37 ResponseTime 1319
+OK 23.227.39.39 ResponseTime 1263
+OK 23.227.39.38 ResponseTime 1263
+OK 23.227.39.40 ResponseTime 1119
+OK 23.227.39.41 ResponseTime 1194
+OK 23.227.39.42 ResponseTime 1217
+OK 23.227.39.44 ResponseTime 1250
+OK 23.227.39.43 ResponseTime 1523
+OK 23.227.39.47 ResponseTime 1281
+OK 23.227.39.46 ResponseTime 1283
+OK 23.227.39.45 ResponseTime 1246
+OK 23.227.39.48 ResponseTime 1823
+OK 23.227.39.49 ResponseTime 1152
+OK 23.227.39.50 ResponseTime 1386
+OK 23.227.39.51 ResponseTime 1114
+OK 23.227.39.52 ResponseTime 1104
+OK 23.227.39.53 ResponseTime 1246
+OK 23.227.39.54 ResponseTime 1239
+OK 23.227.39.55 ResponseTime 1271
+OK 23.227.39.56 ResponseTime 1113
+OK 23.227.39.57 ResponseTime 1140
+OK 23.227.39.59 ResponseTime 1136
+OK 23.227.39.60 ResponseTime 1211
+OK 23.227.39.58 ResponseTime 1697
+OK 23.227.39.61 ResponseTime 1271
+OK 23.227.39.63 ResponseTime 1229
+OK 23.227.39.62 ResponseTime 1219
+OK 23.227.39.64 ResponseTime 1305
+OK 23.227.39.65 ResponseTime 1257
+OK 23.227.39.66 ResponseTime 1173
+OK 23.227.39.67 ResponseTime 1312
+OK 23.227.39.68 ResponseTime 1195
+OK 23.227.39.69 ResponseTime 1211
+OK 23.227.39.71 ResponseTime 1138
+OK 23.227.39.70 ResponseTime 1217
+OK 23.227.39.72 ResponseTime 1306
+OK 23.227.39.73 ResponseTime 1241
+OK 23.227.39.74 ResponseTime 1334
+OK 23.227.39.75 ResponseTime 1231
+OK 23.227.39.76 ResponseTime 1350
+OK 23.227.39.77 ResponseTime 1133
+OK 23.227.39.78 ResponseTime 1297
+OK 23.227.39.79 ResponseTime 1247
+OK 23.227.39.80 ResponseTime 1217
+OK 23.227.39.82 ResponseTime 1265
+OK 23.227.39.83 ResponseTime 1305
+OK 23.227.39.81 ResponseTime 1628
+OK 23.227.39.84 ResponseTime 1165
+OK 23.227.39.85 ResponseTime 1270
+OK 23.227.39.86 ResponseTime 1115
+OK 23.227.39.87 ResponseTime 1217
+OK 23.227.39.89 ResponseTime 1451
+OK 23.227.39.92 ResponseTime 1304
+OK 23.227.39.91 ResponseTime 1466
+OK 23.227.39.90 ResponseTime 1527
+OK 23.227.39.88 ResponseTime 1697
+OK 23.227.39.93 ResponseTime 1178
+OK 23.227.39.94 ResponseTime 1255
+OK 23.227.39.95 ResponseTime 1132
+OK 23.227.39.96 ResponseTime 1396
+OK 23.227.39.97 ResponseTime 1448
+OK 23.227.39.98 ResponseTime 1416
+OK 23.227.39.99 ResponseTime 1557
+OK 23.227.39.100 ResponseTime 1895
+OK 23.227.39.102 ResponseTime 1311
+OK 23.227.39.103 ResponseTime 1429
+OK 23.227.39.101 ResponseTime 1362
+OK 23.227.39.106 ResponseTime 1673
+OK 23.227.39.107 ResponseTime 1547
+OK 23.227.39.104 ResponseTime 1692
+OK 23.227.39.105 ResponseTime 1712
+OK 23.227.39.108 ResponseTime 1593
+OK 23.227.39.110 ResponseTime 1351
+OK 23.227.39.109 ResponseTime 1386
+OK 23.227.39.111 ResponseTime 1409
+OK 23.227.39.112 ResponseTime 1675
+OK 23.227.39.114 ResponseTime 1672
+OK 23.227.39.115 ResponseTime 1624
+OK 23.227.39.116 ResponseTime 1504
+OK 23.227.39.113 ResponseTime 1943
+OK 23.227.39.117 ResponseTime 1639
+OK 23.227.39.119 ResponseTime 1464
+OK 23.227.39.118 ResponseTime 1661
+OK 23.227.39.120 ResponseTime 1665
+OK 23.227.39.121 ResponseTime 1578
+OK 23.227.39.122 ResponseTime 1588
+OK 23.227.39.124 ResponseTime 1610
+OK 23.227.39.123 ResponseTime 1468
+OK 23.227.39.125 ResponseTime 1330
+OK 23.227.39.126 ResponseTime 1219
+OK 23.227.39.127 ResponseTime 1260
+OK 23.227.39.128 ResponseTime 1268
+OK 23.227.39.130 ResponseTime 1590
+OK 23.227.39.129 ResponseTime 1654
+OK 23.227.39.132 ResponseTime 1535
+OK 23.227.39.131 ResponseTime 1534
+OK 23.227.39.133 ResponseTime 1681
+OK 23.227.39.135 ResponseTime 1629
+OK 23.227.39.134 ResponseTime 1728
+OK 23.227.39.136 ResponseTime 1469
+OK 23.227.39.137 ResponseTime 1358
+OK 23.227.39.139 ResponseTime 1476
+OK 23.227.39.140 ResponseTime 1548
+OK 23.227.39.138 ResponseTime 1555
+OK 23.227.39.141 ResponseTime 1407
+OK 23.227.39.142 ResponseTime 1313
+OK 23.227.39.143 ResponseTime 1426
+OK 23.227.39.144 ResponseTime 1219
+OK 23.227.39.145 ResponseTime 1113
+OK 23.227.39.146 ResponseTime 1596
+OK 23.227.39.147 ResponseTime 1417
+OK 23.227.39.148 ResponseTime 1312
+OK 23.227.39.149 ResponseTime 1288
+OK 23.227.39.150 ResponseTime 1222
+OK 23.227.39.151 ResponseTime 1436
+OK 23.227.39.152 ResponseTime 1470
+OK 23.227.39.153 ResponseTime 1582
+OK 23.227.39.154 ResponseTime 1262
+OK 23.227.39.155 ResponseTime 1246
+OK 23.227.39.156 ResponseTime 1405
+OK 23.227.39.157 ResponseTime 1309
+OK 23.227.39.158 ResponseTime 1311
+OK 23.227.39.159 ResponseTime 1210
+OK 23.227.39.160 ResponseTime 1160
+OK 23.227.39.161 ResponseTime 1140
+OK 23.227.39.162 ResponseTime 1225
+OK 23.227.39.163 ResponseTime 1166
+OK 23.227.39.164 ResponseTime 1164
+OK 23.227.39.165 ResponseTime 1192
+OK 23.227.39.166 ResponseTime 1237
+OK 23.227.39.167 ResponseTime 1148
+OK 23.227.39.168 ResponseTime 1221
+OK 23.227.39.169 ResponseTime 1442
+OK 23.227.39.171 ResponseTime 1148
+OK 23.227.39.170 ResponseTime 1211
+OK 23.227.39.172 ResponseTime 1171
+OK 23.227.39.173 ResponseTime 1228
+OK 23.227.39.174 ResponseTime 1283
+OK 23.227.39.175 ResponseTime 1203
+OK 23.227.39.176 ResponseTime 1247
+OK 23.227.39.177 ResponseTime 1125
+OK 23.227.39.178 ResponseTime 1421
+OK 23.227.39.179 ResponseTime 1490
+OK 23.227.39.180 ResponseTime 1456
+OK 23.227.39.181 ResponseTime 1412
+OK 23.227.39.182 ResponseTime 1350
+OK 23.227.39.183 ResponseTime 1265
+OK 23.227.39.184 ResponseTime 1142
+OK 23.227.39.185 ResponseTime 1417
+OK 23.227.39.188 ResponseTime 1162
+OK 23.227.39.186 ResponseTime 1322
+OK 23.227.39.187 ResponseTime 1250
+OK 23.227.39.189 ResponseTime 1314
+OK 23.227.39.190 ResponseTime 1196
+OK 23.227.39.191 ResponseTime 1294
+OK 23.227.39.192 ResponseTime 1483
+OK 23.227.39.193 ResponseTime 1389
+OK 23.227.39.194 ResponseTime 1206
+OK 23.227.39.196 ResponseTime 1300
+OK 23.227.39.195 ResponseTime 1282
+OK 23.227.39.197 ResponseTime 1222
+OK 23.227.39.198 ResponseTime 1401
+OK 23.227.39.199 ResponseTime 1442
+OK 23.227.39.200 ResponseTime 1302
+OK 23.227.39.201 ResponseTime 1287
+OK 23.227.39.202 ResponseTime 1234
+OK 23.227.39.205 ResponseTime 1237
+OK 23.227.39.203 ResponseTime 1395
+OK 23.227.39.204 ResponseTime 1419
+OK 23.227.39.206 ResponseTime 1204
+OK 23.227.39.207 ResponseTime 1492
+OK 23.227.39.208 ResponseTime 1835
+OK 23.227.39.209 ResponseTime 1485
+FAILED 23.227.39.216
+OK 23.227.39.210 ResponseTime 1380
+OK 23.227.39.211 ResponseTime 1224
+OK 23.227.39.213 ResponseTime 1319
+OK 23.227.39.212 ResponseTime 1581
+OK 23.227.39.214 ResponseTime 1617
+OK 23.227.39.215 ResponseTime 1285
+OK 23.227.39.217 ResponseTime 1518
+OK 23.227.39.218 ResponseTime 1626
+FAILED 23.227.39.219
+FAILED 23.227.39.220
+FAILED 23.227.39.225
+FAILED 23.227.39.226
+FAILED 23.227.39.221
+OK 23.227.39.222 ResponseTime 1970
+OK 23.227.39.223 ResponseTime 1772
+FAILED 23.227.39.224
+OK 23.227.39.228 ResponseTime 1486
+OK 23.227.39.229 ResponseTime 1801
+OK 23.227.39.227 ResponseTime 1832
+OK 23.227.39.232 ResponseTime 1695
+OK 23.227.39.230 ResponseTime 1808
+FAILED 23.227.39.231
+FAILED 23.227.39.233
+FAILED 23.227.39.234
+OK 23.227.39.235 ResponseTime 1383
+OK 23.227.39.236 ResponseTime 1565
+OK 23.227.39.237 ResponseTime 1863
+OK 23.227.39.239 ResponseTime 1921
+OK 23.227.39.238 ResponseTime 1946
+OK 23.227.39.240 ResponseTime 1755
+OK 23.227.39.241 ResponseTime 1468
+OK 23.227.39.242 ResponseTime 1495
+OK 23.227.39.243 ResponseTime 1379
+OK 23.227.39.244 ResponseTime 1228
+OK 23.227.39.245 ResponseTime 1674
+OK 23.227.39.246 ResponseTime 1713
+OK 23.227.39.247 ResponseTime 1749
+OK 23.227.39.248 ResponseTime 1452
+FAILED 23.227.39.255
+OK 23.227.39.250 ResponseTime 1822
+OK 23.227.39.249 ResponseTime 1793
+OK 23.227.39.251 ResponseTime 1568
+OK 23.227.39.252 ResponseTime 1581
+OK 23.227.39.253 ResponseTime 1752
+| Progress bar of main IPs: [>                                                  ] .77%
+
+OK 23.227.60.0 ResponseTime 1350
+OK 23.227.60.1 ResponseTime 1377
+OK 23.227.60.6 ResponseTime 1514
+OK 23.227.60.5 ResponseTime 1616
+OK 23.227.60.4 ResponseTime 1615
+OK 23.227.60.2 ResponseTime 1683
+OK 23.227.60.7 ResponseTime 1711
+OK 23.227.60.3 ResponseTime 1904
+OK 23.227.60.9 ResponseTime 1406
+OK 23.227.60.8 ResponseTime 1446
+OK 23.227.60.13 ResponseTime 1705
+OK 23.227.60.14 ResponseTime 1748
+OK 23.227.60.10 ResponseTime 1827
+OK 23.227.60.12 ResponseTime 1848
+OK 23.227.60.15 ResponseTime 1807
+OK 23.227.60.11 ResponseTime 1885
+OK 23.227.60.17 ResponseTime 1257
+FAILED 23.227.60.16
+FAILED 23.227.60.21
+FAILED 23.227.60.20
+FAILED 23.227.60.19
+FAILED 23.227.60.18
+OK 23.227.60.22 ResponseTime 1812
+OK 23.227.60.23 ResponseTime 1945
+OK 23.227.60.29 ResponseTime 1313
+OK 23.227.60.30 ResponseTime 1750
+FAILED 23.227.60.24
+OK 23.227.60.25 ResponseTime 1878
+OK 23.227.60.27 ResponseTime 1961
+OK 23.227.60.26 ResponseTime 1907
+OK 23.227.60.31 ResponseTime 1862
+OK 23.227.60.28 ResponseTime 1961
+OK 23.227.60.32 ResponseTime 1765
+FAILED 23.227.60.35
+FAILED 23.227.60.33
+FAILED 23.227.60.34
+FAILED 23.227.60.38
+FAILED 23.227.60.36
+FAILED 23.227.60.37
+FAILED 23.227.60.39
+OK 23.227.60.40 ResponseTime 1357
+FAILED 23.227.60.47
+FAILED 23.227.60.41
+FAILED 23.227.60.46
+FAILED 23.227.60.43
+FAILED 23.227.60.42
+FAILED 23.227.60.44
+FAILED 23.227.60.45
+FAILED 23.227.60.48
+OK 23.227.60.49 ResponseTime 1448
+FAILED 23.227.60.53
+FAILED 23.227.60.54
+FAILED 23.227.60.55
+FAILED 23.227.60.50
+FAILED 23.227.60.51
+FAILED 23.227.60.52
+FAILED 23.227.60.56
+FAILED 23.227.60.57
+FAILED 23.227.60.59
+FAILED 23.227.60.61
+FAILED 23.227.60.62
+FAILED 23.227.60.63
+FAILED 23.227.60.60
+FAILED 23.227.60.64
+FAILED 23.227.60.58
+FAILED 23.227.60.65
+OK 23.227.60.73 ResponseTime 1743
+OK 23.227.60.71 ResponseTime 1677
+OK 23.227.60.67 ResponseTime 1671
+OK 23.227.60.72 ResponseTime 1797
+FAILED 23.227.60.68
+OK 23.227.60.70 ResponseTime 1909
+OK 23.227.60.66 ResponseTime 1960
+OK 23.227.60.69 ResponseTime 1908
+FAILED 23.227.60.76
+FAILED 23.227.60.74
+FAILED 23.227.60.78
+FAILED 23.227.60.75
+FAILED 23.227.60.80
+FAILED 23.227.60.77
+FAILED 23.227.60.81
+FAILED 23.227.60.79
+FAILED 23.227.60.85
+FAILED 23.227.60.89
+OK 23.227.60.82 ResponseTime 1642
+OK 23.227.60.86 ResponseTime 1792
+OK 23.227.60.84 ResponseTime 1845
+OK 23.227.60.83 ResponseTime 1811
+OK 23.227.60.88 ResponseTime 1757
+OK 23.227.60.87 ResponseTime 1817
+OK 23.227.60.90 ResponseTime 1798
+FAILED 23.227.60.91
+FAILED 23.227.60.92
+FAILED 23.227.60.93
+FAILED 23.227.60.94
+FAILED 23.227.60.95
+FAILED 23.227.60.96
+FAILED 23.227.60.97
+OK 23.227.60.99 ResponseTime 1778
+OK 23.227.60.98 ResponseTime 1928
+OK 23.227.60.104 ResponseTime 1805
+OK 23.227.60.105 ResponseTime 1847
+OK 23.227.60.103 ResponseTime 1855
+OK 23.227.60.102 ResponseTime 1855
+OK 23.227.60.101 ResponseTime 1983
+OK 23.227.60.100 ResponseTime 1934
+OK 23.227.60.106 ResponseTime 1835
+OK 23.227.60.107 ResponseTime 1869
+OK 23.227.60.109 ResponseTime 1328
+OK 23.227.60.108 ResponseTime 1327
+OK 23.227.60.110 ResponseTime 1652
+OK 23.227.60.112 ResponseTime 1647
+OK 23.227.60.113 ResponseTime 1746
+OK 23.227.60.111 ResponseTime 1822
+OK 23.227.60.114 ResponseTime 1955
+OK 23.227.60.115 ResponseTime 1964
+OK 23.227.60.117 ResponseTime 1405
+OK 23.227.60.116 ResponseTime 1389
+OK 23.227.60.119 ResponseTime 1960
+OK 23.227.60.118 ResponseTime 1969
+OK 23.227.60.120 ResponseTime 1831
+OK 23.227.60.121 ResponseTime 1857
+FAILED 23.227.60.122
+FAILED 23.227.60.123
+OK 23.227.60.125 ResponseTime 1758
+OK 23.227.60.124 ResponseTime 1708
+OK 23.227.60.128 ResponseTime 1755
+OK 23.227.60.126 ResponseTime 1801
+OK 23.227.60.129 ResponseTime 1785
+OK 23.227.60.127 ResponseTime 1819
+OK 23.227.60.130 ResponseTime 1805
+OK 23.227.60.131 ResponseTime 1771
+OK 23.227.60.132 ResponseTime 1476
+OK 23.227.60.135 ResponseTime 1680
+OK 23.227.60.134 ResponseTime 1706
+FAILED 23.227.60.133
+OK 23.227.60.136 ResponseTime 1927
+FAILED 23.227.60.137
+FAILED 23.227.60.138
+FAILED 23.227.60.139
+OK 23.227.60.140 ResponseTime 1247
+OK 23.227.60.142 ResponseTime 1413
+OK 23.227.60.141 ResponseTime 1427
+OK 23.227.60.143 ResponseTime 1487
+OK 23.227.60.144 ResponseTime 1609
+OK 23.227.60.145 ResponseTime 1683
+OK 23.227.60.146 ResponseTime 1420
+OK 23.227.60.147 ResponseTime 1677
+OK 23.227.60.148 ResponseTime 1263
+OK 23.227.60.149 ResponseTime 1589
+OK 23.227.60.150 ResponseTime 1553
+OK 23.227.60.152 ResponseTime 1593
+OK 23.227.60.153 ResponseTime 1833
+OK 23.227.60.151 ResponseTime 1934
+OK 23.227.60.154 ResponseTime 1827
+OK 23.227.60.155 ResponseTime 1895
+OK 23.227.60.156 ResponseTime 1220
+OK 23.227.60.157 ResponseTime 1437
+OK 23.227.60.158 ResponseTime 1724
+OK 23.227.60.159 ResponseTime 1550
+OK 23.227.60.161 ResponseTime 1886
+OK 23.227.60.162 ResponseTime 1797
+OK 23.227.60.160 ResponseTime 1965
+OK 23.227.60.163 ResponseTime 1840
+OK 23.227.60.164 ResponseTime 1360
+OK 23.227.60.165 ResponseTime 1313
+OK 23.227.60.166 ResponseTime 1289
+OK 23.227.60.167 ResponseTime 1410
+OK 23.227.60.168 ResponseTime 1305
+OK 23.227.60.170 ResponseTime 1859
+OK 23.227.60.169 ResponseTime 1887
+OK 23.227.60.171 ResponseTime 1877
+OK 23.227.60.172 ResponseTime 1237
+OK 23.227.60.173 ResponseTime 1214
+OK 23.227.60.174 ResponseTime 1528
+OK 23.227.60.176 ResponseTime 1693
+OK 23.227.60.175 ResponseTime 1708
+FAILED 23.227.60.181
+FAILED 23.227.60.178
+FAILED 23.227.60.179
+FAILED 23.227.60.177
+OK 23.227.60.180 ResponseTime 1424
+OK 23.227.60.182 ResponseTime 1402
+OK 23.227.60.183 ResponseTime 1194
+OK 23.227.60.184 ResponseTime 1214
+OK 23.227.60.185 ResponseTime 1419
+OK 23.227.60.186 ResponseTime 1214
+OK 23.227.60.188 ResponseTime 1484
+OK 23.227.60.187 ResponseTime 1878
+OK 23.227.60.189 ResponseTime 1346
+OK 23.227.60.190 ResponseTime 1322
+OK 23.227.60.191 ResponseTime 1139
+OK 23.227.60.192 ResponseTime 1475
+OK 23.227.60.193 ResponseTime 1537
+OK 23.227.60.194 ResponseTime 1236
+OK 23.227.60.195 ResponseTime 1550
+OK 23.227.60.196 ResponseTime 1282
+OK 23.227.60.197 ResponseTime 1239
+OK 23.227.60.198 ResponseTime 1223
+OK 23.227.60.199 ResponseTime 1649
+OK 23.227.60.200 ResponseTime 1489
+OK 23.227.60.202 ResponseTime 1369
+OK 23.227.60.201 ResponseTime 1444
+OK 23.227.60.204 ResponseTime 1183
+OK 23.227.60.203 ResponseTime 1719
+OK 23.227.60.205 ResponseTime 1323
+OK 23.227.60.206 ResponseTime 1504
+OK 23.227.60.207 ResponseTime 1442
+OK 23.227.60.208 ResponseTime 1455
+OK 23.227.60.210 ResponseTime 1526
+OK 23.227.60.209 ResponseTime 1635
+OK 23.227.60.211 ResponseTime 1527
+OK 23.227.60.212 ResponseTime 1499
+OK 23.227.60.213 ResponseTime 1425
+OK 23.227.60.214 ResponseTime 1153
+OK 23.227.60.215 ResponseTime 1292
+OK 23.227.60.216 ResponseTime 1289
+OK 23.227.60.218 ResponseTime 1694
+OK 23.227.60.217 ResponseTime 1682
+OK 23.227.60.219 ResponseTime 1844
+OK 23.227.60.220 ResponseTime 1658
+OK 23.227.60.221 ResponseTime 1700
+FAILED 23.227.60.226
+OK 23.227.60.222 ResponseTime 1194
+OK 23.227.60.223 ResponseTime 1333
+OK 23.227.60.224 ResponseTime 1645
+OK 23.227.60.225 ResponseTime 1258
+OK 23.227.60.227 ResponseTime 1250
+OK 23.227.60.229 ResponseTime 1538
+OK 23.227.60.228 ResponseTime 1775
+OK 23.227.60.230 ResponseTime 1791
+OK 23.227.60.231 ResponseTime 1839
+OK 23.227.60.232 ResponseTime 1521
+OK 23.227.60.233 ResponseTime 1478
+OK 23.227.60.235 ResponseTime 1916
+OK 23.227.60.234 ResponseTime 1932
+OK 23.227.60.236 ResponseTime 1749
+OK 23.227.60.237 ResponseTime 1908
+OK 23.227.60.238 ResponseTime 1920
+OK 23.227.60.239 ResponseTime 1931
+OK 23.227.60.240 ResponseTime 1916
+OK 23.227.60.241 ResponseTime 1639
+OK 23.227.60.242 ResponseTime 1319
+OK 23.227.60.243 ResponseTime 1854
+OK 23.227.60.244 ResponseTime 1394
+OK 23.227.60.245 ResponseTime 1248
+OK 23.227.60.246 ResponseTime 1386
+FAILED 23.227.60.251
+OK 23.227.60.248 ResponseTime 1183
+OK 23.227.60.247 ResponseTime 1106
+FAILED 23.227.60.255
+OK 23.227.60.249 ResponseTime 1265
+OK 23.227.60.250 ResponseTime 1457
+OK 23.227.60.253 ResponseTime 1311
+OK 23.227.60.252 ResponseTime 1354
+| Progress bar of main IPs: [>                                                  ] 1.94%
+
+OK 66.235.200.7 ResponseTime 1443
+OK 66.235.200.6 ResponseTime 1745
+OK 66.235.200.2 ResponseTime 1733
+OK 66.235.200.4 ResponseTime 1822
+FAILED 66.235.200.1
+OK 66.235.200.5 ResponseTime 1910
+OK 66.235.200.3 ResponseTime 1947
+FAILED 66.235.200.0
+FAILED 66.235.200.8
+OK 66.235.200.9 ResponseTime 1847
+OK 66.235.200.14 ResponseTime 1674
+OK 66.235.200.12 ResponseTime 1915
+OK 66.235.200.13 ResponseTime 1986
+FAILED 66.235.200.15
+OK 66.235.200.10 ResponseTime 1909
+FAILED 66.235.200.11
+OK 66.235.200.20 ResponseTime 1825
+OK 66.235.200.19 ResponseTime 1856
+FAILED 66.235.200.18
+OK 66.235.200.17 ResponseTime 1956
+OK 66.235.200.21 ResponseTime 1899
+OK 66.235.200.22 ResponseTime 1981
+OK 66.235.200.16 ResponseTime 1942
+OK 66.235.200.23 ResponseTime 1839
+OK 66.235.200.24 ResponseTime 1521
+OK 66.235.200.25 ResponseTime 1713
+OK 66.235.200.29 ResponseTime 1547
+OK 66.235.200.28 ResponseTime 1606
+OK 66.235.200.27 ResponseTime 1639
+OK 66.235.200.30 ResponseTime 1900
+OK 66.235.200.26 ResponseTime 1852
+OK 66.235.200.31 ResponseTime 1910
+OK 66.235.200.32 ResponseTime 1258
+OK 66.235.200.33 ResponseTime 1847
+OK 66.235.200.35 ResponseTime 1778
+OK 66.235.200.34 ResponseTime 1806
+OK 66.235.200.36 ResponseTime 1816
+OK 66.235.200.37 ResponseTime 1682
+OK 66.235.200.39 ResponseTime 1642
+FAILED 66.235.200.38
+OK 66.235.200.40 ResponseTime 1327
+OK 66.235.200.41 ResponseTime 1266
+OK 66.235.200.44 ResponseTime 1203
+OK 66.235.200.45 ResponseTime 1216
+OK 66.235.200.43 ResponseTime 1446
+FAILED 66.235.200.42
+OK 66.235.200.46 ResponseTime 1556
+OK 66.235.200.47 ResponseTime 1440
+OK 66.235.200.48 ResponseTime 1124
+OK 66.235.200.49 ResponseTime 1066
+OK 66.235.200.50 ResponseTime 1107
+OK 66.235.200.51 ResponseTime 1171
+OK 66.235.200.52 ResponseTime 1197
+OK 66.235.200.53 ResponseTime 1332
+OK 66.235.200.55 ResponseTime 1213
+OK 66.235.200.54 ResponseTime 1270
+OK 66.235.200.56 ResponseTime 1304
+OK 66.235.200.58 ResponseTime 1474
+OK 66.235.200.59 ResponseTime 1457
+OK 66.235.200.60 ResponseTime 1411
+OK 66.235.200.57 ResponseTime 1859
+OK 66.235.200.63 ResponseTime 1526
+OK 66.235.200.61 ResponseTime 1722
+OK 66.235.200.62 ResponseTime 1733
+OK 66.235.200.64 ResponseTime 1101
+OK 66.235.200.68 ResponseTime 1266
+OK 66.235.200.67 ResponseTime 1420
+OK 66.235.200.65 ResponseTime 1389
+OK 66.235.200.66 ResponseTime 1394
+OK 66.235.200.69 ResponseTime 1305
+OK 66.235.200.70 ResponseTime 1380
+OK 66.235.200.71 ResponseTime 1219
+OK 66.235.200.72 ResponseTime 1116
+OK 66.235.200.73 ResponseTime 1239
+OK 66.235.200.74 ResponseTime 1196
+OK 66.235.200.75 ResponseTime 1272
+OK 66.235.200.76 ResponseTime 1268
+OK 66.235.200.77 ResponseTime 1397
+OK 66.235.200.78 ResponseTime 1325
+OK 66.235.200.79 ResponseTime 1322
+OK 66.235.200.80 ResponseTime 1188
+OK 66.235.200.81 ResponseTime 1104
+OK 66.235.200.83 ResponseTime 1229
+OK 66.235.200.84 ResponseTime 1269
+OK 66.235.200.82 ResponseTime 1239
+OK 66.235.200.85 ResponseTime 1311
+OK 66.235.200.87 ResponseTime 1338
+OK 66.235.200.86 ResponseTime 1407
+OK 66.235.200.88 ResponseTime 1245
+OK 66.235.200.89 ResponseTime 1138
+OK 66.235.200.90 ResponseTime 1263
+OK 66.235.200.91 ResponseTime 1255
+OK 66.235.200.92 ResponseTime 1811
+OK 66.235.200.94 ResponseTime 1376
+OK 66.235.200.95 ResponseTime 1581
+OK 66.235.200.93 ResponseTime 1585
+OK 66.235.200.96 ResponseTime 1178
+OK 66.235.200.97 ResponseTime 1298
+OK 66.235.200.99 ResponseTime 1254
+OK 66.235.200.98 ResponseTime 1315
+OK 66.235.200.100 ResponseTime 1435
+OK 66.235.200.101 ResponseTime 1170
+OK 66.235.200.102 ResponseTime 1623
+FAILED 66.235.200.103
+OK 66.235.200.104 ResponseTime 1240
+OK 66.235.200.105 ResponseTime 1310
+OK 66.235.200.107 ResponseTime 1490
+OK 66.235.200.106 ResponseTime 1537
+OK 66.235.200.108 ResponseTime 1222
+OK 66.235.200.109 ResponseTime 1393
+OK 66.235.200.110 ResponseTime 1248
+OK 66.235.200.111 ResponseTime 1461
+OK 66.235.200.112 ResponseTime 1489
+OK 66.235.200.113 ResponseTime 1492
+OK 66.235.200.114 ResponseTime 1471
+OK 66.235.200.115 ResponseTime 1488
+FAILED 66.235.200.122
+FAILED 66.235.200.123
+OK 66.235.200.116 ResponseTime 1944
+OK 66.235.200.117 ResponseTime 1615
+OK 66.235.200.118 ResponseTime 1485
+FAILED 66.235.200.124
+FAILED 66.235.200.125
+OK 66.235.200.119 ResponseTime 1567
+FAILED 66.235.200.126
+OK 66.235.200.120 ResponseTime 1680
+OK 66.235.200.121 ResponseTime 1546
+OK 66.235.200.127 ResponseTime 1468
+OK 66.235.200.128 ResponseTime 1686
+OK 66.235.200.129 ResponseTime 1683
+OK 66.235.200.130 ResponseTime 1767
+OK 66.235.200.131 ResponseTime 1700
+OK 66.235.200.132 ResponseTime 1915
+OK 66.235.200.133 ResponseTime 1898
+OK 66.235.200.134 ResponseTime 1385
+OK 66.235.200.135 ResponseTime 1435
+OK 66.235.200.137 ResponseTime 1395
+FAILED 66.235.200.136
+OK 66.235.200.138 ResponseTime 1811
+OK 66.235.200.139 ResponseTime 1874
+FAILED 66.235.200.140
+OK 66.235.200.141 ResponseTime 1710
+OK 66.235.200.142 ResponseTime 1551
+FAILED 66.235.200.150
+OK 66.235.200.143 ResponseTime 1263
+OK 66.235.200.144 ResponseTime 1752
+OK 66.235.200.145 ResponseTime 1899
+OK 66.235.200.146 ResponseTime 1774
+OK 66.235.200.147 ResponseTime 1799
+FAILED 66.235.200.152
+FAILED 66.235.200.148
+OK 66.235.200.149 ResponseTime 1794
+OK 66.235.200.151 ResponseTime 1323
+OK 66.235.200.154 ResponseTime 1361
+OK 66.235.200.155 ResponseTime 1451
+FAILED 66.235.200.153
+OK 66.235.200.157 ResponseTime 1671
+OK 66.235.200.156 ResponseTime 1715
+FAILED 66.235.200.158
+FAILED 66.235.200.159
+OK 66.235.200.160 ResponseTime 1696
+OK 66.235.200.162 ResponseTime 1674
+OK 66.235.200.161 ResponseTime 1726
+OK 66.235.200.163 ResponseTime 1858
+FAILED 66.235.200.165
+OK 66.235.200.164 ResponseTime 1938
+FAILED 66.235.200.166
+FAILED 66.235.200.167
+OK 66.235.200.168 ResponseTime 1832
+FAILED 66.235.200.169
+FAILED 66.235.200.170
+OK 66.235.200.171 ResponseTime 1867
+FAILED 66.235.200.172
+FAILED 66.235.200.173
+OK 66.235.200.174 ResponseTime 1974
+FAILED 66.235.200.175
+OK 66.235.200.176 ResponseTime 1937
+OK 66.235.200.181 ResponseTime 1471
+FAILED 66.235.200.177
+OK 66.235.200.182 ResponseTime 1768
+FAILED 66.235.200.180
+FAILED 66.235.200.179
+FAILED 66.235.200.178
+FAILED 66.235.200.183
+FAILED 66.235.200.184
+OK 66.235.200.185 ResponseTime 1297
+OK 66.235.200.186 ResponseTime 1317
+OK 66.235.200.188 ResponseTime 1807
+OK 66.235.200.189 ResponseTime 1812
+OK 66.235.200.190 ResponseTime 1909
+FAILED 66.235.200.187
+OK 66.235.200.191 ResponseTime 1568
+OK 66.235.200.192 ResponseTime 1573
+OK 66.235.200.193 ResponseTime 1807
+OK 66.235.200.194 ResponseTime 1988
+FAILED 66.235.200.196
+FAILED 66.235.200.197
+FAILED 66.235.200.198
+FAILED 66.235.200.200
+FAILED 66.235.200.195
+FAILED 66.235.200.199
+FAILED 66.235.200.201
+FAILED 66.235.200.202
+FAILED 66.235.200.203
+FAILED 66.235.200.205
+FAILED 66.235.200.207
+FAILED 66.235.200.204
+FAILED 66.235.200.206
+FAILED 66.235.200.208
+OK 66.235.200.209 ResponseTime 1269
+FAILED 66.235.200.213
+FAILED 66.235.200.212
+FAILED 66.235.200.216
+FAILED 66.235.200.210
+FAILED 66.235.200.215
+FAILED 66.235.200.214
+FAILED 66.235.200.217
+FAILED 66.235.200.211
+OK 66.235.200.225 ResponseTime 1762
+OK 66.235.200.222 ResponseTime 1929
+OK 66.235.200.219 ResponseTime 1877
+FAILED 66.235.200.223
+FAILED 66.235.200.218
+FAILED 66.235.200.221
+FAILED 66.235.200.220
+FAILED 66.235.200.224
+OK 66.235.200.231 ResponseTime 1380
+OK 66.235.200.232 ResponseTime 1252
+OK 66.235.200.226 ResponseTime 1497
+OK 66.235.200.228 ResponseTime 1758
+OK 66.235.200.230 ResponseTime 1730
+OK 66.235.200.233 ResponseTime 1776
+OK 66.235.200.229 ResponseTime 1959
+FAILED 66.235.200.227
+FAILED 66.235.200.234
+OK 66.235.200.235 ResponseTime 1278
+OK 66.235.200.236 ResponseTime 1311
+OK 66.235.200.240 ResponseTime 1605
+OK 66.235.200.237 ResponseTime 1795
+FAILED 66.235.200.241
+FAILED 66.235.200.239
+FAILED 66.235.200.238
+FAILED 66.235.200.242
+FAILED 66.235.200.243
+FAILED 66.235.200.244
+OK 66.235.200.246 ResponseTime 1755
+OK 66.235.200.248 ResponseTime 1702
+FAILED 66.235.200.245
+FAILED 66.235.200.249
+FAILED 66.235.200.247
+FAILED 66.235.200.251
+FAILED 66.235.200.250
+FAILED 66.235.200.252
+FAILED 66.235.200.255
+OK 66.235.200.254 ResponseTime 1291
+| Progress bar of main IPs: [=>                                                 ] 3.11%
+
+FAILED 103.21.244.1
+OK 103.21.244.4 ResponseTime 1354
+OK 103.21.244.0 ResponseTime 1607
+OK 103.21.244.3 ResponseTime 1504
+OK 103.21.244.7 ResponseTime 1557
+OK 103.21.244.5 ResponseTime 1756
+OK 103.21.244.6 ResponseTime 1771
+OK 103.21.244.2 ResponseTime 1933
+OK 103.21.244.8 ResponseTime 1605
+FAILED 103.21.244.15
+OK 103.21.244.10 ResponseTime 1791
+OK 103.21.244.11 ResponseTime 1848
+OK 103.21.244.9 ResponseTime 1886
+OK| Progress bar of main IPs: [=>                                                 ] 3.50%
+
+^C
+ayk@Ahmad:~/CFScanner/scripts$ ls result/
+ls: cannot access 'result/': No such file or directory
+ayk@Ahmad:~/CFScanner/scripts$ ls result/
+20230120-203358-result.cf
+ls: cannot access 'result/': No such file or directory
+20230120-203358-result.cf: command not found
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 100 ./custom.subnets
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 104.16.0.7
+OK 104.16.0.2 ResponseTime 1361
+OK 104.16.0.0 ResponseTime 1330
+OK 104.16.0.6 ResponseTime 1425
+OK 104.16.0.5 ResponseTime 1409
+OK 104.16.0.1 ResponseTime 1400
+OK 104.16.0.4 ResponseTime 1334
+OK 104.16.0.3 ResponseTime 1341
+OK 104.16.0.8 ResponseTime 1369
+FAILED 104.16.0.10
+OK 104.16.0.11 ResponseTime 1230
+OK 104.16.0.12 ResponseTime 1343
+OK 104.16.0.15 ResponseTime 1279
+OK 104.16.0.14 ResponseTime 1381
+OK 104.16.0.13 ResponseTime 1354
+OK 104.16.0.16 ResponseTime 1078
+OK 104.16.0.17 ResponseTime 1196
+FA| Progress bar of main IPs: [>                                                  ] 0%
+  | Progress bar of main IPs: [>                                                  ] 0%
+  | Progress bar of main IPs: [>                                                  ] 0%
+  | Progress bar of main IPs: [>                                                  ] 0%
+  | Progress bar of main IPs: [>                                                  ] 0%
+  | Progress bar of main IPs: [>                                                  ] 0%
+
+^C
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 10000
+reading config ...
+Speed 10000 is not valid, choose be one of (25 50 100 150 200 250 500)
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 500
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 23.227.37.1
+FAILED 23.227.37.6
+FAILED 23.227.37.0
+FAILED 23.227.37.4
+FAILED 23.227.37.3
+FAILED 23.227.37.2
+FAILED 23.227.37.5
+FAILED 23.227.37.7
+FAILED 23.227.37.8
+FAILED 23.227.37.9
+FAILED 23.227.37.10
+FAILED 23.227.37.11
+FAILED 23.227.37.15
+FAILED 23.227.37.12
+FAILED 23.227.37.13
+FAILED 23.227.37.14
+FAILED 23.227.37.19
+FAILED 23.227.37.16
+FAILED 23.227.37.20
+FAILED 23.227.37.17
+FAILED 23.227.37.18
+FAILED 23.227.37.22
+FAILED 23.227.37.23
+FAILED 23.227.37.21
+FAILED 23.227.37.24
+FAILED 23.227.37.26
+FAILED 23.227.37.27
+FAILED 23.227.37.31
+FAILED 23.227.37.25
+FAILED 23.227.37.28
+FAILED 23.227.37.29
+FAILED 23.227.37.30
+FAILED 23.227.37.32
+FAILED 23.227.37.33
+FAILED 23.227.37.37
+FAILED 23.227.37.36
+FAILED 23.227.37.34
+FAILED 23.227.37.38
+FAILED 23.227.37.35
+FAILED 23.227.37.39
+FAILED 23.227.37.42
+FAILED 23.227.37.41
+FAILED 23.227.37.40
+FAILED 23.227.37.45
+FAILED 23.227.37.43
+FAILED 23.227.37.44
+FAILED 23.227.37.46
+FAILED 23.227.37.47
+FAILED 23.227.37.49
+FAILED 23.227.37.48
+FAILED 23.227.37.50
+FAILED 23.227.37.52
+FAILED 23.227.37.51
+FAILED 23.227.37.53
+FAILED 23.227.37.54
+FAILED 23.227.37.55
+FAILED 23.227.37.63
+FAILED 23.227.37.62
+FAILED 23.227.37.57
+FAILED 23.227.37.56
+FAILED 23.227.37.59
+FAILED 23.227.37.60
+FAILED 23.227.37.58
+FAILED 23.227.37.61
+FAILED 23.227.37.68
+FAILED 23.227.37.67
+FAILED 23.227.37.69
+FAILED 23.227.37.71
+FAILED 23.227.37.65
+FAILED 23.227.37.64
+FAILED 23.227.37.66
+FAILED 23.227.37.70
+FAILED 23.227.37.72
+FAILED 23.227.37.73
+FAILED 23.227.37.75
+FAILED 23.227.37.76
+FAILED 23.227.37.77
+FAILED 23.227.37.74
+FAILED 23.227.37.78
+FAILED 23.227.37.79
+FAILED 23.227.37.80
+FAILED 23.227.37.82
+FAILED 23.227.37.81
+FAILED 23.227.37.83
+FAILED 23.227.37.85
+FAILED 23.227.37.84
+FAILED 23.227.37.87
+FAILED 23.227.37.86
+FAILED 23.227.37.88
+FAILED 23.227.37.93
+FAILED 23.227.37.89
+FAILED 23.227.37.90
+FAILED 23.227.37.95
+FAILED 23.227.37.91
+FAILED 23.227.37.92
+FAILED 23.227.37.94
+FAILED 23.227.37.96
+FAILED 23.227.37.99
+FAILED 23.227.37.97
+FAILED 23.227.37.102
+FAILED 23.227.37.98
+FAILED 23.227.37.100
+FAILED 23.227.37.101
+FAILED 23.227.37.103
+FAILED 23.227.37.104
+FAILED 23.227.37.109
+FAILED 23.227.37.105
+FAILED 23.227.37.106
+FAILED 23.227.37.110
+FAILED 23.227.37.111
+FAILED 23.227.37.107
+FAILED 23.227.37.108
+FAILED 23.227.37.112
+FAILED 23.227.37.116
+FAILED 23.227.37.115
+FAILED 23.227.37.117
+FAILED 23.227.37.113
+FAILED 23.227.37.114
+FAILED 23.227.37.119
+FAILED 23.227.37.118
+FAILED 23.227.37.120
+FAILED 23.227.37.121
+FAILED 23.227.37.122
+FAILED 23.227.37.123
+FAILED 23.227.37.125
+FAILED 23.227.37.126
+FAILED 23.227.37.127
+FAILED 23.227.37.128
+FAILED 23.227.37.129
+FAILED 23.227.37.130
+FAILED 23.227.37.132
+FAILED 23.227.37.131
+FAILED 23.227.37.134
+FAILED 23.227.37.133
+FAILED 23.227.37.124
+FAILED 23.227.37.136
+FAILED 23.227.37.135
+FAILED 23.227.37.137
+FAILED 23.227.37.141
+FAILED 23.227.37.140
+FAILED 23.227.37.138
+FAILED 23.227.37.142
+FAILED 23.227.37.143
+FAILED 23.227.37.144
+FAILED 23.227.37.145
+FAILED 23.227.37.146
+FAILED 23.227.37.147
+FAILED 23.227.37.148
+FAILED 23.227.37.139
+FAILED 23.227.37.149
+FAILED 23.227.37.150
+FAILED 23.227.37.151
+FAILED 23.227.37.152
+FAILED 23.227.37.153
+FAILED 23.227.37.154
+FAILED 23.227.37.155
+FAILED 23.227.37.156
+FAILED 23.227.37.157
+FAILED 23.227.37.158
+FAILED 23.227.37.159
+FAILED 23.227.37.160
+FAILED 23.227.37.161
+FAILED 23.227.37.162
+FAILED 23.227.37.163
+FAILED 23.227.37.164
+FAILED 23.227.37.165
+FAILED 23.227.37.166
+FAILED 23.227.37.167
+FAILED 23.227.37.168
+FAILED 23.227.37.170
+FAILED 23.227.37.169
+FAILED 23.227.37.171
+FAILED 23.227.37.172
+FAILED 23.227.37.173
+FAILED 23.227.37.174
+FAILED 23.227.37.176
+FAILED 23.227.37.175
+FAILED 23.227.37.177
+FAILED 23.227.37.178
+FAILED 23.227.37.179
+FAILED 23.227.37.180
+FAILED 23.227.37.182
+FAILED 23.227.37.181
+FAILED 23.227.37.183
+FAILED 23.227.37.184
+FAILED 23.227.37.185
+FAILED 23.227.37.188
+FAILED 23.227.37.186
+FAILED 23.227.37.187
+FAILED 23.227.37.189
+FAILED 23.227.37.190
+FAILED 23.227.37.191
+FAILED 23.227.37.193
+FAILED 23.227.37.192
+FAILED 23.227.37.196
+FAILED 23.227.37.195
+FAILED 23.227.37.197
+FAILED 23.227.37.198
+FAILED 23.227.37.201
+FAILED 23.227.37.200
+FAILED 23.227.37.199
+FAILED 23.227.37.202
+FAILED 23.227.37.203
+FAILED 23.227.37.194
+FAILED 23.227.37.204
+FAILED 23.227.37.205
+FAILED 23.227.37.206
+FAILED 23.227.37.207
+FAILED 23.227.37.208
+FAILED 23.227.37.209
+FAILED 23.227.37.210
+FAILED 23.227.37.211
+FAILED 23.227.37.212
+FAILED 23.227.37.213
+FAILED 23.227.37.214
+FAILED 23.227.37.216
+FAILED 23.227.37.215
+FAILED 23.227.37.217
+FAILED 23.227.37.218
+FAILED 23.227.37.219
+FAILED 23.227.37.220
+FAILED 23.227.37.221
+FAILED 23.227.37.223
+FAILED 23.227.37.222
+FAILED 23.227.37.224
+FAILED 23.227.37.225
+FAILED 23.227.37.226
+FAILED 23.227.37.227
+FAILED 23.227.37.228
+FAILED 23.227.37.229
+FAILED 23.227.37.230
+FAILED 23.227.37.232
+FAILED 23.227.37.231
+FAILED 23.227.37.234
+FAILED 23.227.37.233
+FAILED 23.227.37.235
+FAILED 23.227.37.236
+FAILED 23.227.37.237
+FAILED 23.227.37.239
+FAILED 23.227.37.238
+FAILED 23.227.37.240
+FAILED 23.227.37.242
+FAILED 23.227.37.241
+FAILED 23.227.37.243
+FAILED 23.227.37.244
+FAILED 23.227.37.245
+FAILED 23.227.37.246
+FAILED 23.227.37.247
+FAILED 23.227.37.248
+FAILED 23.227.37.249
+FAILED 23.227.37.250
+FAILED 23.227.37.251
+FAILED 23.227.37.252
+FAILED 23.227.37.253
+FAILED 23.227.37.254
+| Progress bar of main IPs: [>                                                  ] .38%
+
+FAILED 23.227.38.6
+FAILED 23.227.38.5
+FAILED 23.227.38.4
+FAILED 23.227.38.0
+FAILED 23.227.38.3
+FAILED 23.227.38.7
+FAILED 23.227.38.1
+FAILED 23.227.38.2
+OK 23.227.38.8 ResponseTime 1929
+OK 23.227.38.15 ResponseTime 1637
+OK 23.227.38.10 ResponseTime 1878
+OK 23.227.38.9 ResponseTime 1797
+OK 23.227.38.11 ResponseTime 1888
+FAILED 23.227.38.12
+FAILED 23.227.38.13
+OK 23.227.38.14 ResponseTime 1945
+OK 23.227.38.16 ResponseTime 1865
+OK 23.227.38.17 ResponseTime 1944
+FAILED 23.227.38.18
+FAILED 23.227.38.19
+FAILED 23.227.38.21
+FAILED 23.227.38.22
+FAILED 23.227.38.20
+FAILED 23.227.38.23
+FAILED 23.227.38.24
+FAILED 23.227.38.32
+OK 23.227.38.25 ResponseTime 1845
+FAILED 23.227.38.30
+FAILED 23.227.38.28
+FAILED 23.227.38.27
+FAILED 23.227.38.29
+FAILED 23.227.38.26
+FAILED 23.227.38.31
+FAILED 23.227.38.36
+OK 23.227.38.33 ResponseTime 1879
+OK 23.227.38.38 ResponseTime 1903
+FAILED 23.227.38.34
+FAILED 23.227.38.37
+FAILED 23.227.38.39
+FAILED 23.227.38.40
+FAILED 23.227.38.35
+FAILED 23.227.38.41
+FAILED 23.227.38.42
+OK 23.227.38.46 ResponseTime 1758
+FAILED 23.227.38.47
+FAILED 23.227.38.48
+FAILED 23.227.38.44
+FAILED 23.227.38.43
+FAILED 23.227.38.45
+FAILED 23.227.38.49
+FAILED 23.227.38.50
+OK 23.227.38.54 ResponseTime 1801
+FAILED 23.227.38.55
+FAILED 23.227.38.53
+FAILED 23.227.38.56
+FAILED 23.227.38.51
+FAILED 23.227.38.57
+FAILED 23.227.38.52
+FAILED 23.227.38.64
+FAILED 23.227.38.58
+FAILED 23.227.38.65
+FAILED 23.227.38.66
+FAILED 23.227.38.67
+FAILED 23.227.38.70
+FAILED 23.227.38.68
+FAILED 23.227.38.69
+FAILED 23.227.38.71
+FAILED 23.227.38.72
+FAILED 23.227.38.73
+FAILED 23.227.38.74
+FAILED 23.227.38.77
+FAILED 23.227.38.62
+FAILED 23.227.38.60
+FAILED 23.227.38.61
+FAILED 23.227.38.63
+FAILED 23.227.38.59
+FAILED 23.227.38.81
+FAILED 23.227.38.83
+OK 23.227.38.75 ResponseTime 1831
+OK 23.227.38.76 ResponseTime 1833
+OK 23.227.38.78 ResponseTime 1546
+OK 23.227.38.79 ResponseTime 1727
+OK 23.227.38.82 ResponseTime 1984
+FAILED 23.227.38.80
+FAILED 23.227.38.84
+OK 23.227.38.85 ResponseTime 1858
+OK 23.227.38.86 ResponseTime 1262
+OK 23.227.38.87 ResponseTime 1649
+OK 23.227.38.88 ResponseTime 1679
+OK 23.227.38.89 ResponseTime 1952
+OK 23.227.38.91 ResponseTime 1820
+FAILED 23.227.38.90
+FAILED 23.227.38.96
+FAILED 23.227.38.98
+FAILED 23.227.38.92
+OK 23.227.38.94 ResponseTime 1838
+FAILED 23.227.38.93
+FAILED 23.227.38.95
+FAILED 23.227.38.97
+OK 23.227.38.99 ResponseTime 1898
+OK 23.227.38.100 ResponseTime 1657
+OK 23.227.38.101 ResponseTime 1859
+OK 23.227.38.102 ResponseTime 1880
+FAILED 23.227.38.106
+FAILED 23.227.38.104
+FAILED 23.227.38.103
+FAILED 23.227.38.107
+FAILED 23.227.38.105
+FAILED 23.227.38.112
+FAILED 23.227.38.113
+OK 23.227.38.108 ResponseTime 1869
+OK 23.227.38.110 ResponseTime 1795
+OK 23.227.38.109 ResponseTime 1956
+FAILED 23.227.38.111
+FAILED 23.227.38.114
+OK 23.227.38.115 ResponseTime 1845
+FAILED 23.227.38.116
+FAILED 23.227.38.117
+OK 23.227.38.118 ResponseTime 1904
+OK 23.227.38.119 ResponseTime 1736
+OK 23.227.38.121 ResponseTime 1878
+OK 23.227.38.120 ResponseTime 1950
+FAILED 23.227.38.123
+FAILED 23.227.38.122
+FAILED 23.227.38.125
+FAILED 23.227.38.124
+OK 23.227.38.126 ResponseTime 1533
+OK 23.227.38.127 ResponseTime 1588
+FAILED 23.227.38.128
+FAILED 23.227.38.129
+OK 23.227.38.130 ResponseTime 1952
+OK 23.227.38.131 ResponseTime 1981
+FAILED 23.227.38.132
+FAILED 23.227.38.133
+OK 23.227.38.135 ResponseTime 1357
+FAILED 23.227.38.134
+FAILED 23.227.38.137
+FAILED 23.227.38.136
+FAILED 23.227.38.139
+FAILED 23.227.38.138
+FAILED 23.227.38.142
+FAILED 23.227.38.141
+FAILED 23.227.38.140
+OK 23.227.38.144 ResponseTime 1612
+FAILED 23.227.38.146
+FAILED 23.227.38.143
+FAILED 23.227.38.148
+FAILED 23.227.38.145
+FAILED 23.227.38.147
+FAILED 23.227.38.149
+FAILED 23.227.38.150
+OK 23.227.38.151 ResponseTime 1496
+FAILED 23.227.38.158
+FAILED 23.227.38.152
+FAILED 23.227.38.155
+FAILED 23.227.38.157
+FAILED 23.227.38.156
+FAILED 23.227.38.153
+FAILED 23.227.38.154
+FAILED 23.227.38.159
+
+
+FAILED 23.227.38.164
+FAILED 23.227.38.162
+FAILED 23.227.38.165
+FAILED 23.227.38.160
+FAILED 23.227.38.166
+FAILED 23.227.38.161
+FAILED 23.227.38.163
+FAILED 23.227.38.167
+OK 23.227.38.171 ResponseTime 1748
+FAILED 23.227.38.170
+FAILED 23.227.38.168
+FAILED 23.227.38.172
+FAILED 23.227.38.174
+FAILED 23.227.38.173
+FAILED 23.227.38.175
+FAILED 23.227.38.169
+OK 23.227.38.176 ResponseTime 1466
+OK 23.227.38.179 ResponseTime 1477
+FAILED 23.227.38.178
+FAILED 23.227.38.181
+FAILED 23.227.38.183
+FAILED 23.227.38.180
+FAILED 23.227.38.177
+FAILED 23.227.38.182
+FAILED 23.227.38.184
+OK 23.227.38.185 ResponseTime 1763
+OK 23.227.38.188 ResponseTime 1813
+OK 23.227.38.189 ResponseTime 1943
+FAILED 23.227.38.192
+FAILED 23.227.38.191
+FAILED 23.227.38.186
+FAILED 23.227.38.187
+FAILED 23.227.38.190
+OK 23.227.38.193 ResponseTime 1704
+OK 23.227.38.197 ResponseTime 1585
+FAILED 23.227.38.200
+FAILED 23.227.38.194
+FAILED 23.227.38.196
+FAILED 23.227.38.199
+FAILED 23.227.38.195
+FAILED 23.227.38.198
+FAILED 23.227.38.201
+OK 23.227.38.203 ResponseTime 1783
+OK 23.227.38.202 ResponseTime 1902
+FAILED 23.227.38.205
+FAILED 23.227.38.208
+OK 23.227.38.206 ResponseTime 1950
+OK 23.227.38.207 ResponseTime 1963
+OK 23.227.38.204 ResponseTime 1971
+OK 23.227.38.209 ResponseTime 1807
+OK 23.227.38.213 ResponseTime 1604
+OK 23.227.38.212 ResponseTime 1678
+FAILED 23.227.38.210
+FAILED 23.227.38.211
+FAILED 23.227.38.214
+OK 23.227.38.216 ResponseTime 1952
+FAILED 23.227.38.215
+FAILED 23.227.38.217
+FAILED 23.227.38.222
+OK 23.227.38.220 ResponseTime 1496
+OK 23.227.38.218 ResponseTime 1654
+OK 23.227.38.219 ResponseTime 1767
+OK 23.227.38.225 ResponseTime 1692
+OK 23.227.38.221 ResponseTime 1931
+OK 23.227.38.223 ResponseTime 1897
+OK 23.227.38.224 ResponseTime 1913
+FAILED 23.227.38.226
+OK 23.227.38.229 ResponseTime 1718
+OK 23.227.38.228 ResponseTime 1912
+FAILED 23.227.38.227
+OK 23.227.38.231 ResponseTime 1849
+OK 23.227.38.232 ResponseTime 1746
+OK 23.227.38.230 ResponseTime 1914
+OK 23.227.38.233 ResponseTime 1897
+OK 23.227.38.234 ResponseTime 1872
+OK 23.227.38.235 ResponseTime 1665
+OK 23.227.38.237 ResponseTime 1677
+OK 23.227.38.239 ResponseTime 1933
+FAILED 23.227.38.236
+FAILED 23.227.38.240
+FAILED 23.227.38.238
+OK 23.227.38.241 ResponseTime 1946
+OK 23.227.38.242 ResponseTime 1896
+FAILED 23.227.38.243
+FAILED 23.227.38.245
+FAILED 23.227.38.244
+FAILED 23.227.38.246
+FAILED 23.227.38.247
+FAILED 23.227.38.248
+FAILED 23.227.38.249
+FA| Progress bar of main IPs: [>                                                  ] .77%
+
+FAILED 23.227.60.6
+OK 23.227.60.2 ResponseTime 1907
+OK 23.227.60.4 ResponseTime 1871
+FAILED 23.227.60.7
+FAILED 23.227.60.1
+FAILED 23.227.60.3
+FAILED 23.227.60.5
+FAILED 23.227.60.0
+OK 23.227.60.10 ResponseTime 1816
+OK 23.227.60.11 ResponseTime 1812
+FAILED 23.227.60.12
+FAILED 23.227.60.8
+FAILED 23.227.60.13
+FAILED 23.227.60.14
+FAILED 23.227.60.15
+FAILED 23.227.60.9
+OK 23.227.60.20 ResponseTime 1852
+FAILED 23.227.60.23
+FAILED 23.227.60.19
+FAILED 23.227.60.22
+FAILED 23.227.60.21
+FAILED 23.227.60.16
+FAILED 23.227.60.17
+FA| Progress bar of main IPs: [>                                                  ] 1.94%
+  | Progress bar of main IPs: [=>                                                 ] 3.11%
+
+^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ls
+cf.local.iplist  config.json.temp  config.script   v2ctl      v2ray
+cfFindIP.sh      config.real       custom.subnets  v2ctl-mac  v2ray-mac
+ayk@Ahmad:~/CFScanner/scripts$ ls result/
+ls: cannot access 'result/': No such file or directory
+ayk@Ahmad:~/CFScanner/scripts$ ls result
+ls: cannot access 'result': No such file or directory
+ayk@Ahmad:~/CFScanner/scripts$ ls cf.local.iplist
+cf.local.iplist
+ayk@Ahmad:~/CFScanner/scripts$ ls cf.local.iplist/
+ls: cannot access 'cf.local.iplist/': Not a directory
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 500 ./custom.subnets
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 104.16.0.7
+FAILED 104.16.0.2
+FAILED 104.16.0.1
+FAILED 104.16.0.6
+FAILED 104.16.0.0
+FAILED 104.16.0.5
+FAILED 104.16.0.4
+FAILED 104.16.0.3
+FAILED 104.16.0.8
+FAILED 104.16.0.10
+OK 104.16.0.9 ResponseTime 1721
+FAILED 104.16.0.13
+FAILED 104.16.0.12
+FAILED 104.16.0.14
+FAILED 104.16.0.11
+FAILED 104.16.0.15
+FAILED 104.16.0.16
+FAILED 104.16.0.17
+OK 104.16.0.18 ResponseTime 1469
+FAILED 104.16.0.20
+FAILED 104.16.0.19
+FAILED 104.16.0.23
+FAILED 104.16.0.22
+OK 104.16.0.24 ResponseTime 1950
+FAILED 104.16.0.21
+FAILED 104.16.0.25
+FAILED 104.16.0.26
+OK 104.16.0.29 ResponseTime 1513
+OK 104.16.0.27 ResponseTime 1967
+FAILED 104.16.0.31
+OK 104.16.0.28 ResponseTime 1978
+FAILED 104.16.0.33
+OK 104.16.0.32 ResponseTime 1901
+FAILED 104.16.0.30
+OK 104.16.0.34 ResponseTime 1776
+OK 104.16.0.35 ResponseTime 1338
+OK 104.16.0.36 ResponseTime 1561
+OK 104.16.0.37 ResponseTime 1709
+OK 104.16.0.40 ResponseTime 1831
+FAILED 104.16.0.38
+OK 104.16.0.39 ResponseTime 1926
+OK 104.16.0.41 ResponseTime 1807
+FAILED 104.16.0.42
+OK 104.16.0.43 ResponseTime 1513
+OK 104.16.0.44 ResponseTime 1582
+OK 104.16.0.45 ResponseTime 1590
+OK 104.16.0.48 ResponseTime 1710
+OK 104.16.0.49 ResponseTime 1900
+OK 104.16.0.50 ResponseTime 1812
+OK 104.16.0.47 ResponseTime 1853
+OK 104.16.0.46 ResponseTime 1893
+FAILED 104.16.0.54
+OK 104.16.0.51 ResponseTime 1375
+OK 104.16.0.52 ResponseTime 1531
+OK 104.16.0.53 ResponseTime 1541
+OK 104.16.0.56 ResponseTime 1465
+OK 104.16.0.57 ResponseTime 1532
+OK 104.16.0.58 ResponseTime 1508
+OK 104.16.0.55 ResponseTime 1697
+OK 104.16.0.59 ResponseTime 1711
+FAILED 104.16.0.60
+OK 104.16.0.61 ResponseTime 1844
+OK 104.16.0.64 ResponseTime 1675
+OK 104.16.0.63 ResponseTime 1800
+FAILED 104.16.0.62
+OK 104.16.0.65 ResponseTime 1980
+OK 104.16.0.66 ResponseTime 1827
+OK 104.16.0.67 ResponseTime 1724
+FAILED 104.16.0.69
+OK 104.16.0.70 ResponseTime 1617
+OK 104.16.0.68 ResponseTime 1729
+OK 104.16.0.71 ResponseTime 1894
+OK 104.16.0.72 ResponseTime 1832
+OK 104.16.0.74 ResponseTime 1861
+OK 104.16.0.75 ResponseTime 1874
+FAILED 104.16.0.73
+OK 104.16.0.76 ResponseTime 1758
+OK 104.16.0.79 ResponseTime 1819
+FAILED 104.16.0.77
+FAILED 104.16.0.80
+FAILED 104.16.0.78
+FAILED 104.16.0.81
+FAILED 104.16.0.84
+FAILED 104.16.0.83
+FAILED 104.16.0.82
+FAILED 104.16.0.89
+FAILED 104.16.0.85
+FAILED 104.16.0.90
+FAILED 104.16.0.88
+FAILED 104.16.0.87
+FAILED 104.16.0.91
+FAILED 104.16.0.92
+FAILED 104.16.0.86
+FAILED 104.16.0.96
+FAILED 104.16.0.99
+FAILED 104.16.0.100
+FAILED 104.16.0.97
+FAILED 104.16.0.93
+FAILED 104.16.0.98
+FAILED 104.16.0.94
+FAILED 104.16.0.95
+FAILED 104.16.0.101
+FAILED 104.16.0.108
+FAILED 104.16.0.107
+FAILED 104.16.0.103
+FAILED 104.16.0.106
+FAILED 104.16.0.102
+FAILED 104.16.0.105
+FAILED 104.16.0.104
+OK 104.16.0.110 ResponseTime 1434
+OK 104.16.0.115 ResponseTime 1910
+OK 104.16.0.114 ResponseTime 1972
+FAILED 104.16.0.116
+OK 104.16.0.112 ResponseTime 1903
+FAILED 104.16.0.113
+FAILED 104.16.0.111
+FAILED 104.16.0.109
+FAILED 104.16.0.117
+OK 104.16.0.118 ResponseTime 1791
+OK 104.16.0.119 ResponseTime 1914
+FAILED 104.16.0.121
+FAILED 104.16.0.120
+FAILED 104.16.0.123
+FAILED 104.16.0.122
+FAILED 104.16.0.124
+OK 104.16.0.125 ResponseTime 1948
+FAILED 104.16.0.128
+FAILED 104.16.0.131
+FAILED 104.16.0.126
+FAILED 104.16.0.129
+FAILED 104.16.0.127
+FAILED 104.16.0.130
+FAILED 104.16.0.132
+FAILED 104.16.0.133
+OK 104.16.0.139 ResponseTime 1692
+FAILED 104.16.0.140
+FAILED 104.16.0.135
+FAILED 104.16.0.138
+FAILED 104.16.0.134
+FAILED 104.16.0.137
+FAILED 104.16.0.136
+OK 104.16.0.141 ResponseTime 1794
+OK 104.16.0.142 ResponseTime 1513
+OK 104.16.0.144 ResponseTime 1857
+OK 104.16.0.146 ResponseTime 1830
+FAILED 104.16.0.145
+OK 104.16.0.148 ResponseTime 1961
+OK 104.16.0.147 ResponseTime 1941
+OK 104.16.0.143 ResponseTime 1850
+FAILED 104.16.0.149
+OK 104.16.0.150 ResponseTime 1502
+OK 104.16.0.151 ResponseTime 1506
+OK 104.16.0.153 ResponseTime 1748
+OK 104.16.0.152 ResponseTime 1739
+OK 104.16.0.154 ResponseTime 1775
+OK 104.16.0.155 ResponseTime 1813
+OK 104.16.0.156 ResponseTime 1689
+OK 104.16.0.157 ResponseTime 1534
+OK 104.16.0.159 ResponseTime 1479
+OK 104.16.0.158 ResponseTime 1642
+OK 104.16.0.160 ResponseTime 1540
+OK 104.16.0.161 ResponseTime 1557
+FAILED 104.16.0.164
+FAILED 104.16.0.163
+OK 104.16.0.165 ResponseTime 1842
+FAILED 104.16.0.162
+FAILED 104.16.0.170
+OK 104.16.0.166 ResponseTime 1385
+OK 104.16.0.169 ResponseTime 1581
+OK 104.16.0.168 ResponseTime 1701
+OK 104.16.0.167 ResponseTime 1730
+OK 104.16.0.173 ResponseTime 1712
+OK 104.16.0.171 ResponseTime 1714
+FAILED 104.16.0.172
+OK 104.16.0.174 ResponseTime 1660
+OK 104.16.0.175 ResponseTime 1398
+OK 104.16.0.176 ResponseTime 1468
+OK 104.16.0.177 ResponseTime 1443
+OK 104.16.0.178 ResponseTime 1535
+OK 104.16.0.179 ResponseTime 1655
+OK 104.16.0.180 ResponseTime 1928
+OK 104.16.0.181 ResponseTime 1653
+OK 104.16.0.182 ResponseTime 1822
+OK 104.16.0.183 ResponseTime 1528
+OK 104.16.0.184 ResponseTime 1613
+OK 104.16.0.185 ResponseTime 1622
+OK 104.16.0.187 ResponseTime 1448
+FAILED 104.16.0.186
+OK 104.16.0.189 ResponseTime 1397
+OK 104.16.0.188 ResponseTime 1485
+FAILED 104.16.0.190
+OK 104.16.0.191 ResponseTime 1650
+OK 104.16.0.193 ResponseTime 1703
+OK 104.16.0.192 ResponseTime 1691
+OK 104.16.0.194 ResponseTime 1937
+FAILED 104.16.0.197
+FAILED 104.16.0.195
+FAILED 104.16.0.196
+FAILED 104.16.0.198
+OK 104.16.0.199 ResponseTime 1534
+OK 104.16.0.201 ResponseTime 1715
+OK 104.16.0.200 ResponseTime 1874
+FAILED 104.16.0.202
+FAILED 104.16.0.203
+FAILED 104.16.0.205
+FAILED 104.16.0.204
+OK 104.16.0.206 ResponseTime 1861
+OK 104.16.0.207 ResponseTime 1565
+OK 104.16.0.208 ResponseTime 1908
+FAILED 104.16.0.209
+FAILED 104.16.0.211
+FAILED 104.16.0.213
+FAILED 104.16.0.212
+OK 104.16.0.210 ResponseTime 1971
+FAILED 104.16.0.214
+OK 104.16.0.215 ResponseTime 1686
+OK 104.16.0.217 ResponseTime 1651
+OK 104.16.0.218 ResponseTime 1968
+FAILED 104.16.0.216
+FAILED 104.16.0.221
+FAILED 104.16.0.219
+FAILED 104.16.0.220
+FAILED 104.16.0.222
+OK 104.16.0.223 ResponseTime 1499
+OK 104.16.0.224 ResponseTime 1596
+OK 104.16.0.225 ResponseTime 1934
+OK 104.16.0.226 ResponseTime 1936
+FAILED 104.16.0.227
+FAILED 104.16.0.228
+FAILED 104.16.0.229
+OK 104.16.0.230 ResponseTime 1781
+OK 104.16.0.231 ResponseTime 1925
+OK 104.16.0.232 ResponseTime 1598
+OK 104.16.0.233 ResponseTime 1531
+FAILED 104.16.0.234
+OK 104.16.0.236 ResponseTime 1882
+FAILED 104.16.0.235
+FAILED 104.16.0.237
+FAILED 104.16.0.238
+OK 104.16.0.239 ResponseTime 1812
+OK 104.16.0.240 ResponseTime 1479
+OK 104.16.0.241 ResponseTime 1512
+FAILED 104.16.0.242
+FAILED 104.16.0.244
+FAILED 104.16.0.243
+FAILED 104.16.0.246
+FAILED 104.16.0.245
+OK 104.16.0.247 ResponseTime 1960
+OK 104.16.0.248 ResponseTime 1585
+OK 104.16.0.249 ResponseTime 1618
+OK 104.16.0.250 ResponseTime 1587
+OK 104.16.0.252 ResponseTime 1602
+OK 104.16.0.254 ResponseTime 1746
+OK 104.16.0.251 ResponseTime 1804
+OK 104.16.0.253 ResponseTime 1706
+| Progress bar of main IPs: [>                                                  ] 0%
+
+FAILED 104.16.1.7
+OK 104.16.1.5 ResponseTime 1826
+OK 104.16.1.3 ResponseTime 1779
+OK 104.16.1.4 ResponseTime 1815
+FAILED 104.16.1.1
+FAILED 104.16.1.6
+FAILED 104.16.1.0
+FAILED 104.16.1.2
+OK 104.16.1.8 ResponseTime 1763
+FAILED 104.16.1.10
+OK 104.16.1.12 ResponseTime 1494
+OK 104.16.1.11 ResponseTime 1498
+OK 104.16.1.13 ResponseTime 1704
+OK 104.16.1.15 ResponseTime 1796
+OK 104.16.1.14 ResponseTime 1828
+OK 104.16.1.9 ResponseTime 1799
+OK 104.16.1.16 ResponseTime 1923
+OK 104.16.1.17 ResponseTime 1853
+OK 104.16.1.19 ResponseTime 1440
+OK| Progress bar of main IPs: [>                                                  ] 0%
+
+^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ ^C
+ayk@Ahmad:~/CFScanner/scripts$ bash cfFindIP.sh 8 ./config.real 100 ./custom.subnetsbash cfFindIP.sh 8 ./config.real 100 ./custom.subnets
